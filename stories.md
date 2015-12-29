@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Stories
 permalink: /stories/
 ---
@@ -39,6 +39,3 @@ In Print
 - _The Hollow & Other Plays, Collections from the New Play Development Workshop 2004-2007_
 - _Estrogenius Book of Plays, 2002_
 - _Healthy Primates & Other Plays, Collections from the New Play Development Workshop, 2000-2003_
-	
-		
-		
