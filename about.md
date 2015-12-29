@@ -5,8 +5,6 @@ permalink: /about/
 ---
 
 <img class="col one right" src="/img/jde.jpg">
-
-<br/>
 <p>My stories often explore how we come back together after we've been driven apart. I'm deeply concerned about life in all its forms, our humanity, and our survival both practically and spiritually.</p>
 
 <p>My first <em>writing-world</em> has been the theatre, and my plays have been performed in San Francisco, San Diego, New York, Chicago, and Alaska.</p>
