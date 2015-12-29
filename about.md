@@ -9,7 +9,7 @@ permalink: /about/
 <br/>
 <p>My stories often explore how we come back together after we've been driven apart. I'm deeply concerned about life in all its forms, our humanity, and our survival both practically and spiritually.</p>
 
-<p>My first _writing-world_ has been the theatre, and my plays have been performed in San Francisco, San Diego, New York, Chicago, and Alaska.</p>
+<p>My first <em>writing-world</em> has been the theatre, and my plays have been performed in San Francisco, San Diego, New York, Chicago, and Alaska.</p>
 
 <p>A founding member of West Coast Playwrights Alliance, a playwrights’ theatre company (1999-2001), the WCPA premiered my play <strong>Never Say Grace</strong> in November 2000. 
 I'm a grateful alumnus of the oldest playwrights’ workshop in the Bay Area, <a href="http://mondaynightgroup.net" target="blank">The Monday Night Group.</a></p>
