@@ -3,13 +3,11 @@
   <div class="wrapper">
 
     <nav class="site-nav">
-             <!--   <a class="navbar-brand topnav" href="\index.html">JD Eames</a>   -->
-
+ 
       <div class="trigger">
         <!-- {{ site.title }} instead of blog -->
-       <!-- <a class="page-link" href="{{ site.baseurl }}/">blog</a> -->
-               <a class="navbar-brand topnav" href="\index.html">JD Eames</a>
-
+        <a class="page-link" href="{{ site.baseurl }}/">{{ site.title }}</a>
+  
         {% for page in site.pages %}
           {% if page.title %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
