@@ -1,8 +1,8 @@
 # Site settings
 title: JD Eames
 decription: all things
-baseurl:   # the subpath of your site, e.g. /blog/
-url:  www.jdeames.com # the base hostname & protocol for your site #
+baseurl:   # #
+url:  http://www.jdeames.com # the base hostname & protocol for your site #
 twitter_username:     PeaceableWriter
 github_username:      jdeames
 instagram_username:   jdePW
@@ -12,17 +12,23 @@ vine_username:		  PeaceableWriter
 
 # Build settings
 markdown: kramdown
-
 highlighter: pygments
 
+kramdown:
+  auto_ids: true
+  input: GFM
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  use_coderay: false
+
 # Pagination
-paginate: 15
+paginate: 7
 paginate_path: "/news/page:num/"
 
 collections:
-  scripts:
+  stories:
     output: true
-    permalink: /scripts/:path/
+    permalink: /stories/:path/
   news:
     output: true
     permalink: /news/:path/
