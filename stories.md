@@ -10,7 +10,7 @@ permalink: /stories/
   <ul>
   <li><em>After the War, 1-hour, western/drama.</em> At the end of the Civil War, a lone woman with unusual powers, an orphaned girl, and a doctor unite to battle personal demons and societal injustice.</li>
   <li><em>For Always, 1/2-hour, dark comedy.</em> A skilled cosmetician can't hold a job because her compulsive truth-telling leaves her persona non grata. She lands a perfect job with a funeral home where the clients don't talk back.</li>
-  <li><em>Spectactular Grit, 1-hour, drama.</em> A district attorney's post-traumatic stress jeopardizes both her marriage and her re-election campaign. When a young thoroughbred is left in her care, she finds a new reason to get up in the morning.</li>
+  <li><em>Spectactular Grit, 1-hour, drama.</em> A district attorney's post-traumatic stress jeopardizes both her marriage and her re-election campaign. When a young thoroughbred is left in her care, she finds a new purpose for her life.</li>
   </ul>
   <a href="javascript:;" onClick="document.getElementById('pilots').style.display='none';">Hide Original Pilot Scripts</a>
   </div>
