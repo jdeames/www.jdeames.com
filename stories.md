@@ -33,10 +33,10 @@ exclude: false
       </div>
       <div id="tinyfilms" class="panel-collapse collapse">
         <div class="stories-list">  
-        <ul>
-  <li><em>Mollie Murphy, Petophile Vigilante, </em>10 minute mockumentary. Minuscule-budget film. Made in Louisville, KY. All local talent. Starring <a href="http://lizfentress.com">Liz Fentress.</a>
-  <iframe src="https://player.vimeo.com/video/20042430" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/20042430">Mollie Murphy, Petophile Vigilante</a> on <a href="https://vimeo.com/guerrilladaville">Vimeo</a>.</p></li>
-   </ul>
+     <ul class="film-list">
+  <li><em>Mollie Murphy, Petophile Vigilante, </em>10 minute mockumentary. Minuscule-budget film. Made in Louisville, Kentucky with local talent. Starring <a href="http://lizfentress.com">Liz Fentress.</a></li>
+  <li><iframe src="https://player.vimeo.com/video/20042430" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/20042430">Mollie Murphy, Petophile Vigilante</a> on <a href="https://vimeo.com/guerrilladaville">Vimeo</a>.</p></li>
+</ul>
   </div>
       </div>
     </div>
