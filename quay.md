@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Bottom of the Ninth
 permalink: /stories/botn/
 exclude: true

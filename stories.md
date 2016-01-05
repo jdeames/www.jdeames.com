@@ -8,16 +8,16 @@ exclude: false
 <div class="container">
  
   <div class="panel-group" id="accordion">
-    <div class="panel">
+    <div class="panel" style="width=10cm">
      <div class="panel-heading">
         <h3>
           <a data-toggle="collapse" data-parent="#accordion" href="#pilots">Original Pilot Scripts</a>
         </h3>
       </div>
       <div id="pilots" class="panel-collapse collapse">
-        <div>   
+        <div class="stories-list">   
         <ul>
-          <li><em><strong>After the War,</strong> 1-hour, western/drama.</em> At the end of the Civil War, a lone woman with unusual powers, an orphaned girl, and a doctor unite to battle personal demons and societal injustice.</li>
+          <li><em><strong>After the War,</strong> 1-hour, western/drama.</em> At the end of the Civil War, a lone woman with unusual powers, an orphaned girl,  and a doctor unite to battle personal demons and societal injustice.</li>
           <li><em><strong>For Always,</strong> 1/2-hour, dark comedy.</em> A skilled cosmetician can't hold a job because her compulsive truth-telling leaves her persona non grata. She lands a perfect job with a funeral home where the clients don't talk back.</li>
           <li><em><strong>Spectacular Grit,</strong> 1-hour, drama.</em> A district attorney's post-traumatic stress jeopardizes both her marriage and her re-election campaign. When a young thoroughbred is left in her care, she finds a new purpose for her life.</li>
           </ul>
@@ -32,11 +32,11 @@ exclude: false
         </h3>
       </div>
       <div id="tinyfilms" class="panel-collapse collapse">
-        <div>  
+        <div class="stories-list">  
         <ul>
-  <li><em>Mollie Murphy, Petophile Vigilante, </em>10 minute mockumentary. Wee-budget film. Made in Louisville, KY. All local talent. Starring <a href="http://lizfentress.com">Liz Fentress.</a></li>
-  <li><iframe src="https://player.vimeo.com/video/20042430" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/20042430">Mollie Murphy, Petophile Vigilante</a> from <a href="https://vimeo.com/guerrilladaville">JD Eames</a> on <a href="https://vimeo.com">Vimeo</a>.</p></li>
-  </ul>
+  <li><em>Mollie Murphy, Petophile Vigilante, </em>10 minute mockumentary. Minuscule-budget film. Made in Louisville, KY. All local talent. Starring <a href="http://lizfentress.com">Liz Fentress.</a>
+  <iframe src="https://player.vimeo.com/video/20042430" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/20042430">Mollie Murphy, Petophile Vigilante</a> on <a href="https://vimeo.com/guerrilladaville">Vimeo</a>.</p></li>
+   </ul>
   </div>
       </div>
     </div>
@@ -48,7 +48,7 @@ exclude: false
         </h3>
       </div>
       <div id="screenplays" class="panel-collapse collapse">
-        <div> 
+        <div class="stories-list"> 
         <ul>
  <li><em>For Always</em></li>
  <li><em>Softly When It Changes</em></li>
@@ -66,7 +66,8 @@ exclude: false
         </h3>
       </div>
       <div id="flplays" class="panel-collapse collapse">
-        <div> <ul>
+        <div class="stories-list">
+        <ul>
   <li><em>How to Wear a Mask</em></li>
   <li><em>Living in the Twilight with Our Three Selves</em></li>
   <li><em>Do Geese See God</em></li>
@@ -84,7 +85,7 @@ exclude: false
         </h3>
       </div>
       <div id="shortplays" class="panel-collapse collapse">
-        <div> 
+        <div class="stories-list"> 
         <ul>
  <li><em>Her Bag of Favorite Things</em></li>
  <li><em>Excess Baggage</em></li>
@@ -104,7 +105,7 @@ exclude: false
         </h3>
       </div>
       <div id="inprint" class="panel-collapse collapse">
-        <div> 
+        <div class="stories-list"> 
         <ul>
    <li><em>Quay Journal, Summer 2009: <a href="{{site.baseurl}}/stories/botn">Bottom of the Ninth</a></em></li>
   <li><em>The Hollow & Other Plays, Collections from the New Play Development Workshop 2004-2007</em></li>
