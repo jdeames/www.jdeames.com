@@ -3,6 +3,8 @@ title: JD Eames
 decription: all things
 baseurl:   # #
 url:  http://www.jdeames.com # the base hostname & protocol for your site #
+
+
 twitter_username:     PeaceableWriter
 github_username:      jdeames
 instagram_username:   jdePW
@@ -24,5 +26,6 @@ collections:
   news:
     output: true
     permalink: /news/:path/
+    
 
 

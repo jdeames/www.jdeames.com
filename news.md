@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: page
 permalink: /news/
 title: News
+exclude: false
 
 ---
 
