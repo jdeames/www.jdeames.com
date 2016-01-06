@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Cinequest Competition
+title:  Spectacular Grit in Cinequest Competition
 description: <strong>Spectacular Grit</strong> made the top 40 in Cinequest's teleplay 60 category.
 date:   2015-12-18 
 
