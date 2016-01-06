@@ -1,6 +1,6 @@
 # Site settings
 title: JD Eames
-decription: all things
+description: all things
 baseurl:   # #
 url:  http://www.jdeames.com # the base hostname & protocol for your site #
 
@@ -16,16 +16,11 @@ markdown: redcarpet
 highlighter: pygments
 
 # Pagination
-paginate: 7
+paginate: 15
 paginate_path: "/news/page:num/"
 
-collections:
-  stories:
-    output: true
-    permalink: /stories/:path/
-  news:
-    output: true
-    permalink: /news/:path/
-    
+permalink: pretty
+relative: true
+
 
 

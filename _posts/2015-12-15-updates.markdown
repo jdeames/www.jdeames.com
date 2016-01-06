@@ -1,9 +1,9 @@
 ---
 layout: post
+category: news
 title:  What I've been up to the last couple of years
 description: plus there's a new website home and design
 date:   2015-12-15
-
 ---
 
 <p>The domains peaceablewriter.com and jdeames.com are transitioning away from hosted WordPress to Github and Jekyll. A new experiment, ay? As well as a work in progress. The site will evolve as I learn about the new digs.</p>
