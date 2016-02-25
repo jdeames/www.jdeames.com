@@ -24,7 +24,7 @@ exclude: false
 			</li>
           <li><em>For Always, 1/2-hour, dark comedy.</em> 
           <ul class="desc-list">
-          <li>A skilled cosmetician can't hold a job because her compulsive truth-telling leaves her persona non grata. She lands a perfect job with a funeral home where the clients don't talk back.</li>
+          <li>A brutally honest make-up expert can’t keep a job, a fiancé, or even friends. She’s at the end of her rope until she meets a runaway cat, and then lands a job at a mortuary where the clients can’t talk back.</li>
           </ul>
           </li>
           <li><em>Reckless Joy, 1-hour, drama.</em> 
@@ -62,9 +62,7 @@ exclude: false
         <div class="stories-list"> 
         <ul>
  <li><em>For Always</em></li>
- <li><em>Softly When It Changes</em></li>
- <li><em>The Zeus Clubt</em></li>
- <li><em>Fly Away on a Silver Morning</em></li>
+ <li><em>The Zeus Club</em></li>
  </ul>
   </div>
       </div>

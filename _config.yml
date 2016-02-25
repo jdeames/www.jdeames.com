@@ -12,12 +12,8 @@ wordpress_username:   PeaceableWriter
 vimeo_username:       GuerrillaDaVille
 
 # Build settings
-markdown: redcarpet
-highlighter: pygments
+markdown: kramdown
 
-# Pagination
-paginate: 15
-paginate_path: "/news/page:num/"
 
 permalink: pretty
 relative: true
