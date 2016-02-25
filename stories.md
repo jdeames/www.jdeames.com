@@ -27,8 +27,8 @@ exclude: false
           <li>A skilled cosmetician can't hold a job because her compulsive truth-telling leaves her persona non grata. She lands a perfect job with a funeral home where the clients don't talk back.</li>
           </ul>
           </li>
-          <li><em>Spectacular Grit, 1-hour, drama.</em> 
-          <ul class="desc-list">A district attorney's post-traumatic stress jeopardizes both her marriage and her re-election campaign. When a young thoroughbred is left in her care, she finds a new purpose for her life.</li>
+          <li><em>Reckless Joy, 1-hour, drama.</em> 
+          <ul class="desc-list">A district attorney's post-traumatic stress jeopardizes both her marriage and her re-election campaign. When a young thoroughbred is left in her care, she begins to heal, and finds a new purpose for her life.</li>
           </ul>
           </li>
           </ul>
