@@ -1,17 +1,18 @@
 ---
 layout: page
-permalink: /news/
+category: news
 title: News
 exclude: false
-
 ---
 
 <ul class="post-list">
-{% for news in site.news reversed %}
-    <li>
-        <h3><a class="news-title" href="{{ news.url | prepend: site.baseurl }}">{{ news.title }}</a></h3>
-        <p class="post-meta">{{ news.date | date: '%B %-d, %Y' }}</p>
-        <p class="post-meta">{{news.description}}</p>
+ 	{% for post in site.posts %}
+  	{% if post.categories contains 'news' %}
+	 <li>
+        <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+        <p class="post-meta">{{ post.date | date: '%B %-d, %Y' }}</p>
+        <p>{{ post.description }}</p>
       </li>
-{% endfor %}
+  {% endif %}
+  {% endfor %}
 </ul>
