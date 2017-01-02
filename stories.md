@@ -28,7 +28,8 @@ exclude: false
           </ul>
           </li>
           <li><em>Reckless Joy, 1-hour, drama.</em> 
-          <ul class="desc-list">A district attorney's post-traumatic stress jeopardizes both her marriage and her re-election campaign. When a young thoroughbred is left in her care she begins to heal, and finds a new purpose for her life.</li>
+          <ul class="desc-list">
+          <li>A district attorney's post-traumatic stress jeopardizes both her marriage and her re-election campaign. When a young thoroughbred is left in her care she begins to heal, and finds a new purpose for her life.</li>
           </ul>
           </li>
           </ul>
