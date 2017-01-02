@@ -1,13 +1,14 @@
 # Site settings
 title: JD Eames
 description: all things
+description2: writer / storyteller
 baseurl:   # #
 url:  http://www.jdeames.com # the base hostname & protocol for your site #
 
 
 twitter_username:     PeaceableWriter
 github_username:      jdeames
-instagram_username:   jdePW
+instagram_username:   peaceablewriter
 wordpress_username:   PeaceableWriter
 vimeo_username:       GuerrillaDaVille
 
