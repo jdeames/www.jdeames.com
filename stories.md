@@ -4,7 +4,6 @@ title: Stories
 permalink: /stories/
 exclude: false
 ---
-<em>This page still under construction...</em>
 <div class="container">
  
   <div class="panel-group" id="accordion">
