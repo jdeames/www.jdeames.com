@@ -10,7 +10,7 @@ exclude: false
     <div class="panel" style="width=10cm">
      <div class="panel-heading">
         <h3>
-          <a data-toggle="collapse" data-parent="#accordion" href="#pilots">Original Pilot Scripts</a>
+          <a data-toggle="collapse" data-parent="#accordion" href="#pilots">Teleplays</a>
         </h3>
       </div>
       <div id="pilots" class="panel-collapse collapse">
@@ -71,7 +71,7 @@ exclude: false
     <div class="panel">
      <div class="panel-heading">
         <h3>
-          <a data-toggle="collapse" data-parent="#accordion" href="#flplays">Full-Length Plays</a>
+          <a data-toggle="collapse" data-parent="#accordion" href="#flplays">Plays</a>
         </h3>
       </div>
       <div id="flplays" class="panel-collapse collapse">
