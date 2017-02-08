@@ -144,7 +144,8 @@ a {
     } */
     
     &:hover {
-        color: $theme-color;
+        color: $red;
+       /* color: $theme-color; */
         text-decoration: none;
     }
 }
