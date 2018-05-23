@@ -5,5 +5,13 @@ permalink: /subscribe/
 exclude: true
 
 ---
+<div>
+  <span class="contacticon center">
+    	<a href="https://twitter.com/peaceablewriter" class="btn btn-default btn-lg" target="_blank" title="sharing & caring"><img src="/img/twitter.png"></a>
+        <a href="https://instagram.com/peaceablewriter" class="btn btn-default btn-lg" target="_blank" title="my dog, life & experiments in poetry"><img src="/img/instagram.png"></a>
+        <a href="https://vimeo.com/peaceablewriter" class="btn btn-default btn-lg" target="_blank" title="tiny films"><img src="/img/vimeo.png"></a>
+        <a href="https://peaceablewriter.wordpress.com" class="btn btn-default btn-lg" target="_blank" title="blog"><img src="/img/wordpress.png"></a>    
+  </span>
+ <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us14.list-manage.com","uuid":"6d700ed1bdd308211f4501aff","lid":"7cadea1e90"}) })</script>
 
-<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us14.list-manage.com","uuid":"6d700ed1bdd308211f4501aff","lid":"7cadea1e90"}) })</script>
+ </div>
