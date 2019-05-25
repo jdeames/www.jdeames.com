@@ -21,16 +21,17 @@ exclude: false
         <ul>
           <li><em>Reckless Joy, a novel of contemporary fiction.</em>
           <ul class="desc-list">
-          <li>A story about opening yourself up to the best part of yourself.</li>
-			</ul>
+           <li>A story about opening yourself up to the best part of yourself.</li>
+		   </ul>
 			</li>
-			      <li><em>Counting Sheep, a play</em>
+		  <li><em>Counting Sheep, a play</em>
           <ul class="desc-list">
           <li>A story about how political spin brought the end of the world.</li>
 			</ul>
-		
 			</li>
+         </ul>
          </div>
+         
       </div>
 
       
