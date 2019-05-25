@@ -24,19 +24,15 @@ exclude: false
           <li>A story about opening yourself up to the best part of yourself.</li>
 			</ul>
 			</li>
-         </div>
-      </div>
-      
-      <div id="plays" class="panel-collapse collapse">
-        <div class="stories-list">   
-        <ul>
-          <li><em>Counting Sheep, a play</em>
+			      <li><em>Counting Sheep, a play</em>
           <ul class="desc-list">
-          <li>A story about how media spin brought the end of the world.</li>
+          <li>A story about how political spin brought the end of the world.</li>
 			</ul>
+		
 			</li>
          </div>
       </div>
+
       
     </div>
     
