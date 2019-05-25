@@ -46,8 +46,8 @@ exclude: false
         <div class="stories-list">  
      <ul class="film-list">
   <li><em>Mollie Murphy, Petophile Vigilante,</em> 10 minute mockumentary. Minuscule-budget film. Made in Louisville, Kentucky with local talent. Starring <a href="http://lizfentress.com">Liz Fentress.</a></li>
-  <li><iframe src="https://player.vimeo.com/video/20042430" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/20042430">Mollie Murphy, Petophile Vigilante</a> on <a href="https://vimeo.com/guerrilladaville">Vimeo</a>.</p></li>
-  <li><em>More goofiness found on <a href="https://vimeo.com/peaceablewriter" target="_blank" Vimeo</a></em></li>
+  <li><iframe src="https://player.vimeo.com/video/20042430" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/20042430">Mollie Murphy, Petophile Vigilante</a> on <a href="https://vimeo.com/peaceablewriter">Vimeo</a>.</p></li>
+  <li><em>More goofiness found on <a href="https://vimeo.com/peaceablewriter" target="_blank"> Vimeo</a></em></li>
 </ul>
   </div>
       </div>
