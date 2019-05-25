@@ -36,7 +36,9 @@ exclude: false
       </div>
     </div>
     
-         <div class="panel">
+
+    
+     <div class="panel">
      <div class="panel-heading">
         <h3>
           <a data-toggle="collapse" data-parent="#accordion" href="#screenplays">Screenplays</a>
@@ -45,34 +47,14 @@ exclude: false
       <div id="screenplays" class="panel-collapse collapse">
         <div class="stories-list"> 
         <ul>
- <li><em>For Always</em>
-   <ul class="desc-list">
-          <li>Screenplay version of the Teleplay pilot script.</li>
+ <li><em>For Always</em> <ul class="desc-list">
+          <li>Screenplay version of Teleplay pilot.</li>
           </ul>
-          </li>
-      
+       </li>
+ </ul>
   </div>
       </div>
     </div>
-    
-    <div class="panel">
-     <div class="panel-heading">
-        <h3>
-          <a data-toggle="collapse" data-parent="#accordion" href="#tinyfilms">Tiny Films</a>
-        </h3>
-      </div>
-      <div id="tinyfilms" class="panel-collapse collapse">
-        <div class="stories-list">  
-     <ul class="film-list">
-  <li><em>Mollie Murphy, Petophile Vigilante,</em> 10 minute mockumentary. Minuscule-budget film. Made in Louisville, Kentucky with local talent. Starring <a href="http://lizfentress.com">Liz Fentress.</a></li>
-  <li><iframe src="https://player.vimeo.com/video/20042430" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/20042430">Mollie Murphy, Petophile Vigilante</a> on <a href="https://vimeo.com/peaceablewriter">Vimeo</a>.</p></li>
-  <li><em>More goofiness found on <a href="https://vimeo.com/peaceablewriter" target="_blank"> Vimeo</a></em></li>
-</ul>
-  </div>
-      </div>
-    </div>
-    
-
     
     <div class="panel">
      <div class="panel-heading">
@@ -83,10 +65,11 @@ exclude: false
       <div id="flplays" class="panel-collapse collapse">
         <div class="stories-list">
         <ul>
+  <li><em>How to Wear a Mask</em></li>
   <li><em>Living in the Twilight with Our Three Selves</em></li>
   <li><em>Do Geese See God</em></li>
   <li><em>A Pentagon Morning</em></li>
-  <li><em>Never Say Grace</em></li>
+  <li><em>Using the Door</em></li>
   </ul>
   </div>
       </div>
@@ -121,6 +104,7 @@ exclude: false
       <div id="inprint" class="panel-collapse collapse">
         <div class="stories-list"> 
         <ul>
+   <li><em>Quay Journal, Summer 2009: <a href="{{site.baseurl}}/stories/botn">Bottom of the Ninth</a></em></li>
   <li><em>The Hollow & Other Plays, Collections from the New Play Development Workshop 2004-2007</em></li>
   <li><em>Estrogenius Book of Plays, 2002</em></li>
   <li><em>Healthy Primates & Other Plays, Collections from the New Play Development Workshop, 2000-2003</em></li>
@@ -129,7 +113,22 @@ exclude: false
       </div>
     </div>    
     
-    
+    <div class="panel">
+     <div class="panel-heading">
+        <h3>
+          <a data-toggle="collapse" data-parent="#accordion" href="#tinyfilms">Tiny Films</a>
+        </h3>
+      </div>
+      <div id="tinyfilms" class="panel-collapse collapse">
+        <div class="stories-list">  
+     <ul class="film-list">
+  <li><em>Mollie Murphy, Petophile Vigilante,</em> 10 minute mockumentary. Minuscule-budget film. Made in Louisville, Kentucky with local talent. Starring <a href="http://lizfentress.com">Liz Fentress.</a></li>
+  <li><iframe src="https://player.vimeo.com/video/20042430" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/20042430">Mollie Murphy, Petophile Vigilante</a> on <a href="https://vimeo.com/guerrilladaville">Vimeo</a>.</p></li>
+    <li><em>More goofiness found on <a href="https://vimeo.com/peaceablewriter" target="_blank"> Vimeo</a></em></li>
+</ul>
+  </div>
+      </div>
+    </div>    
 
   </div> 
 </div>
