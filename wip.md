@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WIP
+title: works in progress
 permalink: /wip/
 exclude: false
 ---
