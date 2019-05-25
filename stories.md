@@ -103,6 +103,7 @@ exclude: false
       <div id="inprint" class="panel-collapse collapse">
         <div class="stories-list"> 
         <ul>
+         <li><em>The Hollow & Other Plays, Collections from the New Play Development Workshop 2004-2007</em></li>
   <li><em>Estrogenius Book of Plays, 2002</em></li>
   <li><em>Healthy Primates & Other Plays, Collections from the New Play Development Workshop, 2000-2003</em></li>
  </ul>
