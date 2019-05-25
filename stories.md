@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Stories
+title: stories
 permalink: /stories/
 exclude: false
 ---
