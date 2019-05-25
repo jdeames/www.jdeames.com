@@ -78,11 +78,10 @@ exclude: false
       <div id="flplays" class="panel-collapse collapse">
         <div class="stories-list">
         <ul>
-  <li><em>How to Wear a Mask</em></li>
   <li><em>Living in the Twilight with Our Three Selves</em></li>
   <li><em>Do Geese See God</em></li>
   <li><em>A Pentagon Morning</em></li>
-  <li><em>Using the Door</em></li>
+  <li><em>Never Say Grace</em></li>
   </ul>
   </div>
       </div>
@@ -117,7 +116,6 @@ exclude: false
       <div id="inprint" class="panel-collapse collapse">
         <div class="stories-list"> 
         <ul>
-   <li><em>Quay Journal, Summer 2009: <a href="{{site.baseurl}}/stories/botn">Bottom of the Ninth</a></em></li>
   <li><em>The Hollow & Other Plays, Collections from the New Play Development Workshop 2004-2007</em></li>
   <li><em>Estrogenius Book of Plays, 2002</em></li>
   <li><em>Healthy Primates & Other Plays, Collections from the New Play Development Workshop, 2000-2003</em></li>
