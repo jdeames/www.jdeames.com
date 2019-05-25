@@ -2,14 +2,14 @@
 title: JD Eames
 description: writer - storyteller
 baseurl:   # #
-url:  http://www.jdeames.com # the base hostname & protocol for your site #
+url:  https://www.jdeames.com # the base hostname & protocol for your site #
 
 
 twitter_username:     PeaceableWriter
 github_username:      jdeames
 instagram_username:   peaceablewriter
 wordpress_username:   PeaceableWriter
-vimeo_username:       GuerrillaDaVille
+vimeo_username:       PeaceableWriter
 
 # Build settings
 markdown: kramdown
