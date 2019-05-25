@@ -18,7 +18,7 @@ exclude: false
         <ul>
           <li><em>After the War, 1-hour, western/drama.</em>
           <ul class="desc-list">
-          <li>At the end of the Civil War, a lone woman with unusual powers, an orphaned girl,  and a doctor unite to battle personal demons and societal injustice.</li>
+          <li>At the end of the Civil War, a woman with unusual powers, an orphaned girl,  and a doctor unite to battle personal demons and societal injustice.</li>
 			</ul>
 			</li>
           <li><em>For Always, 1/2-hour, dark comedy.</em> 
@@ -33,6 +33,27 @@ exclude: false
           </li>
           </ul>
 	  </div>
+      </div>
+    </div>
+    
+         <div class="panel">
+     <div class="panel-heading">
+        <h3>
+          <a data-toggle="collapse" data-parent="#accordion" href="#screenplays">Screenplays</a>
+        </h3>
+      </div>
+      <div id="screenplays" class="panel-collapse collapse">
+        <div class="stories-list"> 
+        <ul>
+ <li><em>For Always</em>
+   <ul class="desc-list">
+          <li>Screenplay version of the TV Pilot script:  A brutally honest make-up expert can’t keep a job, a fiancé, or even friends. She’s at the end of her rope until she meets a runaway cat, and then lands a job at a mortuary where the clients can’t talk back.</li>
+          </ul>
+          </li>
+      
+ <li><em>The Zeus Club</em></li>
+ </ul>
+  </div>
       </div>
     </div>
     
@@ -53,21 +74,7 @@ exclude: false
       </div>
     </div>
     
-     <div class="panel">
-     <div class="panel-heading">
-        <h3>
-          <a data-toggle="collapse" data-parent="#accordion" href="#screenplays">Screenplays</a>
-        </h3>
-      </div>
-      <div id="screenplays" class="panel-collapse collapse">
-        <div class="stories-list"> 
-        <ul>
- <li><em>For Always</em></li>
- <li><em>The Zeus Club</em></li>
- </ul>
-  </div>
-      </div>
-    </div>
+
     
     <div class="panel">
      <div class="panel-heading">
