@@ -47,12 +47,10 @@ exclude: false
         <ul>
  <li><em>For Always</em>
    <ul class="desc-list">
-          <li>Screenplay version of the TV Pilot script:  A brutally honest make-up expert can’t keep a job, a fiancé, or even friends. She’s at the end of her rope until she meets a runaway cat, and then lands a job at a mortuary where the clients can’t talk back.</li>
+          <li>Screenplay version of the Teleplay pilot script.</li>
           </ul>
           </li>
       
- <li><em>The Zeus Club</em></li>
- </ul>
   </div>
       </div>
     </div>
