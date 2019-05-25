@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: bio
+permalink: /bio/
 exclude: false
 published: true
 ---
