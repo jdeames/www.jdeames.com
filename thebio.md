@@ -1,6 +1,6 @@
 ---
 layout: page
-title: jd
+title: she/her
 permalink: /bio/
 exclude: false
 published: true
