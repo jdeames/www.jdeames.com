@@ -6,36 +6,20 @@ exclude: false
 ---
 <div class="container">
  
-  <div class="panel-group" id="accordion">
-  
-    <div class="panel" style="width=10cm">
+         <h3>Stories in Progress</h3>
     
-     <div class="panel-heading">
-        <h3>
-          <a data-toggle="collapse" data-parent="#accordion" href="#wips">Works in Progress</a>
-        </h3>
-      </div>
-      
-      <div id="wips" class="panel-collapse collapse">
-        <div class="stories-list">   
+      <p></p>
+  
         <ul>
-          <li><em>Reckless Joy, a novel of contemporary fiction</em>
+          <li><em>Reckless Joy, novel, contemporary fiction</em>
+         	</li>
+			<p></p>
+		  <li><em>Counting Sheep, full-length play</em>
           <ul class="desc-list">
-           <!-- <li>A story about opening yourself up to the best part of yourself.</li> --> 
-		   </ul>
-			</li>
-		  <li><em>Counting Sheep, a play</em>
-          <ul class="desc-list">
-         <!-- <li>A story about how political spin brought the end of the world.</li> -->
+        <li>A story about how political spin brought the end of the world.</li>
 			</ul>
 			</li>
          </ul>
-         </div>
          
-      </div>
-
-      
-    </div>
     
-    </div>
 </div>

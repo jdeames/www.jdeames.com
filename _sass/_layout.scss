@@ -117,7 +117,7 @@ font-size: 20px;
 margin: 0px 0;
 list-style: none;
     > li {
-margin-bottom: $vertical-spacing-unit;
+       margin-bottom: $vertical-spacing-unit; 
     }
 }
 .contacticon {
@@ -135,13 +135,18 @@ text-align: center;
 margin-bottom: $vertical-spacing-unit;
 }
 .post-title {
-font-size: 32px;
+font-size: 22px;
 letter-spacing: -1px;
 line-height: 1;
 @include media-query($on-laptop) {
-font-size: 36px;
+font-size: 26px;
     }
 }
+
+.post-lineup { margin: 0px 0;
+list-style: none; }
+    > li {margin-bottom: 0px; }
+
 .post-content {
 h2 {
 font-size: 42px;
@@ -181,6 +186,7 @@ line-height: 1;
 font-size: 16px;
     }
 }
+
 
 
 /** 
@@ -277,3 +283,38 @@ text-align: center;
 vertical-align: middle;
 font-size: $caption_font_size;
 }
+
+/** 
+ * John August Formatting CSS **********************************************************
+*/
+
+.screenbox {
+    list-style: none;
+    width: 530px;
+    background: #eee;
+    border: 1px solid #333;
+    padding: 5px 14px;
+}
+
+.screenbox ul { font: 12px/14px Courier, fixed; }
+
+.open {padding-top: 1.5ex; padding-bottom: 2.5ex; }
+.sceneheader, .action, .character { padding-top: 1.5ex; padding-bottom: 1.5ex; }
+
+.sceneext { padding-top: 2.5ex; padding-bottom: 1.5ex; }
+
+.scenedia { padding-top: 2.5ex; padding-bottom: 1.5ex; }
+
+.action { padding-right: 5%; }
+
+.character { margin-left: 40%; padding-bottom: 0; }
+
+.dialogue { margin-left: 25%; padding-right: 25%; }
+
+.parenthetical { margin-left: 32%; padding-right: 30%; }
+
+/* special case: dialogue followed by a parenthetical; the extra line needs to be suppressed */
+
+.dialogue + .parenthetical { padding-bottom: 0; }
+
+.transition { padding-top: 3ex; margin-left: 65%; padding-bottom: 1.5ex; }

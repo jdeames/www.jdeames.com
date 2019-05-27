@@ -1,0 +1,524 @@
+---
+layout: post
+category: excerpts
+title:  For Always
+author:  By JD Eames
+description: 1/2 hour, dark comedy, original pilot script
+---
+<p>Act 1 of <strong><em>For Always,</em></strong> an original 1/2 hour pilot script</p>
+<ul CLASS="screenbox">
+<ul class="open">COLD OPEN</ul>
+
+<ul class="sceneheader">INT. BEDROOM - NIGHT</ul>
+
+<ul class="action">NELL, twenty-nine year old African-American woman wearing eyeglasses, opens a piece of mail at her desk.</ul>
+
+<ul class="character">NELL (V.O.)</ul>
+<ul class="dialogue">Everything begins with rejection.</ul> 
+
+<ul class="action">She reads a rejection letter from a publisher about her novel, "The Chatter of Animals."</ul>
+
+<ul class="character">NELL (V.O.)</ul>
+<ul class="dialogue">What we become is determined by how we adapt to it. I learned this lesson from my childhood friend, Lily, whose life has been a long path of rejection.</ul>
+
+<ul class="action">She runs the rejection letter through a shredder.</ul>
+
+<ul class="action">Nell picks up a photograph.</ul>
+
+<ul class="action">In the photo is Nell, an orange CAT, and a young WOMAN we are about to meet.</ul>
+
+<ul class="sceneheader">INT. UPSCALE SALON, MEMPHIS, TENNESSEE - DAY</ul>
+
+<ul class="action">Pretty, twenty-nine year old LILY HELLMAN holds a makeup brush in her hand.</ul>
+
+<ul class="action">She looks at an UGLY WOMAN sitting in chair.</ul>
+
+<ul class="character">LILY</ul>
+<ul class="dialogue">Darlin', I can make ya over, but ya need to lose fifteen pounds, get a cream for your hairy chin, and change your deodorant from mosquito repellent to somethin' more appealin’.</ul>
+
+<ul class="sceneext">EXT. UPSCALE SALON - MOMENTS LATER</ul>
+
+<ul class="character">NELL (V.O.)</ul>
+<ul class="dialogue">It's a verbal tick on Lily's part that she can’t help but be rude to everyone she meets.</ul>
+
+<ul class="action">ANGRY SALON OWNER shoves Lily out the doorway. Lily falls, landing on her butt.</ul>
+
+<ul class="sceneheader">INT. APARTMENT - SAME DAY</ul>
+
+<ul class="action">HANDSOME YOUNG MAN races around the room, packing a suitcase.</ul>
+
+<ul class="character">HANDSOME YOUNG MAN</ul>
+<ul class="dialogue">You've got stop telling people horrible things about themselves, Lily.</ul>
+
+<ul class="character">LILY</ul>
+<ul class="dialogue">I have to say what's true. Ya know that about me.</ul>
+
+<ul class="character">HANDSOME YOUNG MAN</ul>
+<ul class="dialogue">I can't take it anymore. I don't need to hear that I snort like a pig when I sleep, or the moles on my back are too hairy, and or that one of my balls sags in a weird way during sex.</ul>
+
+<ul class="action">He shoves the packed bag into Lily's arms, and opens the front door.</ul>
+
+<ul class="character">LILY</ul>
+<ul class="dialogue">But I love ya.</ul>
+
+<ul class="character">HANDSOME YOUNG MAN</ul>
+<ul class="dialogue">Here's what's true. I don't love you anymore. Our engagement's off.</ul>
+
+<ul class="scenedia">EXT. APARTMENT COMPLEX - MOMENTS LATER</ul>
+
+<ul class="action">Tears stream down Lily’s face. She tosses her bag into the back of her beaten up hatchback.</ul>
+
+<ul class="action">INSERT BUMPER STICKER ON CAR</ul>
+
+<ul class="action">"COSMETOLOGISTS DO IT BETTER"</ul>
+
+<ul class="sceneheader">EXT. MANSION - DAY</ul>
+
+<ul class="character">NELL (V.O.)</ul>
+<ul class="dialogue">Still, our Lily's a survivor.</ul>
+
+<ul class="action">Lily's hatchback drives up to the side door of a mansion.</ul>
+
+<ul class="action">A "Delivery Entrance" sign hangs on the door.</ul>
+
+<ul class="sceneheader">INT. CAR - CONTINUOUS</ul>
+
+<ul class="action">Lily looks at herself in the rear-view mirror.</ul>
+
+<ul class="character">LILY</ul>
+<ul class="dialogue">It's come to this, girl. Ya can't hold a job, or a fiancé, and now you're about to do the one thing ya always looked down on, “kitchen make-up.”</ul>
+
+<ul class="scenedia">INT. MANSION - SAME DAY - LATER</ul>
+
+<ul class="character">NELL (V.O.)</ul>
+<ul class="dialogue">But while Lily's compulsively truthful, she's also a uniquely talented cosmetician.</ul>
+
+<ul class="action">Make-up brush in hand, Lily circles a more than middle-aged UNPLEASANT LOOKING WOMAN sitting in a swivel chair.</ul>
+
+<ul class="action">Lily goes to work, applying makeup to Unpleasant Looking Woman as swiftly as a sushi chef slicing raw fish.</ul>
+
+<ul class="action">Lily swivels the chair around.</ul>
+
+<ul class="action">The chair stops, and BEAUTIFUL WOMAN—formerly the Unpleasant Looking Woman—appears in the chair.</ul>
+
+<ul class="sceneheader">EXT. MANSION - SAME DAY - MOMENTS LATER</ul>
+
+<ul class="action">Delivery door bursts open.</ul>
+
+<ul class="action">An ORANGE TABBY CAT flies through the open doorway. It leaps into an open window of Lily's car.</ul>
+
+<ul class="action">Lily races out the door to her car.</ul>
+
+<ul class="action">Beautiful Woman throws Lily’s make-up bag.</ul>
+
+<ul class="action">Lily catches it. It's a good catch, too.</ul>
+
+<ul class="character">BEAUTIFUL WOMAN</ul>
+<ul class="dialogue">I knew you were trash when you showed up in that metal heap.</ul>
+
+<ul class="character">LILY</ul>
+<ul class="dialogue">Ya never looked this good, and ya know it. I want my money.</ul>
+
+<ul class="character">BEAUTIFUL WOMAN</ul>
+<ul class="dialogue">After you demean me in my own home? I'll pay you over my dead body.</ul>
+
+<ul class="action">Beautiful Woman picks up a potted plant, and aims it at Lily.</ul>
+
+<ul class="action">Lily jumps into her car. She speeds away, but not before the potted plant hits and cracks a car window.</ul>
+
+<ul class="sceneext">EXT. HIGHWAY - SAME DAY - LATER</ul>
+
+<ul class="character">NELL (V.O.)</ul>
+<ul class="dialogue">You'd think by now Lily would be used to rejection.</ul>
+
+<ul class="action">Lily's car drives along the interstate, passing a sign—</ul>
+
+<ul class="action">LEAVING TENNESSEE</ul>
+
+<ul class="action">And another sign—</ul>
+
+<ul class="action">WELCOME TO KENTUCKY</ul>
+
+<ul class="action">Lily's car exits the highway.</ul>
+
+<ul class="character">NELL (V.O.)</ul>
+<ul class="dialogue">But she's not.</ul>
+
+<ul class="action">Lily's car drives along a road, until it comes to rest next to a river bank.</ul>
+
+<ul class="sceneheader">INT. CAR - MOMENTS LATER</ul>
+
+<ul class="action">Lily sits in her car, tears streaming down her face.</ul>
+
+<ul class="character">LILY</ul>
+<ul class="dialogue">Ya've done it now, Lily Hellman. Ya've alienated everyone. There’s no one and nothin’ left. Ya don't belong anywhere. Time to drive into the Ohio River... be done with it all.</ul>
+
+<ul class="action">As Lily's about to put her foot to the gas petal, the orange cat climbs out from under the passenger seat. The cat jumps into Lily's lap.</ul>
+
+<ul class="character">LILY (CONT’D)</ul>
+<ul class="dialogue">Oh. How'd ya get in here? What the hell do I do now? I can't drown a cat. Even a mean, ugly woman's cat.</ul>
+
+<ul class="action">Lily opens the car door, and puts the cat down on the ground.</ul>
+
+<ul class="character">LILY (CONT’D)</ul>
+<ul class="dialogue">Go on now, shoo.</ul>
+
+<ul class="action">The cat jumps back into the car, and onto Lily's lap.</ul>
+
+<ul class="character">NELL (V.O.)</ul>
+<ul class="dialogue">Like my daddy used to say, never underestimate the well-timed appearance of a kitty cat.</ul>
+
+<ul class="action">The cat purrs and rubs against Lily.</ul>
+
+<ul class="action">Lily hugs the cat, and dries her tears on his fur.</ul>
+
+<ul class="sceneheader">END COLD OPEN</ul>
+
+
+<ul class="sceneext">ACT ONE</ul>
+
+<ul class="sceneheader">EXT. LOUISVILLE, KENTUCKY - NIGHT</ul>
+
+<ul class="action">Lily's car sputters along a tree lined street. The car slows, and the engine quits.</ul>
+
+<ul class="action">Lily pushes her car toward the curb.</ul>
+
+<ul class="action">Two YOUNG GUYS walking on the sidewalk, run over, and help Lily push the car.</ul>
+
+<ul class="character">LILY</ul>
+<ul class="dialogue">I had it. I mean, thanks. Hey, if ya grow a mustache, it would cover that cleft lip pretty good.</ul>
+
+<ul class="character">GUY WITH CLEFT LIP</ul>
+<ul class="dialogue">You’re welcome, bitch.</ul>
+
+<ul class="character">LILY</ul>
+<ul class="dialogue">Just tryin’ to help ya out. Ya might make it all the way to better lookin’.</ul>
+
+<ul class="character">GUY'S FRIEND</ul>
+<ul class="dialogue">Come on, man, it's her karma.</ul>
+
+<ul class="action">He spits at Lily's feet, and the two men walk away.</ul>
+
+<ul class="sceneext">EXT. HOUSE - NIGHT</ul>
+
+<ul class="action">Lily climbs up a porch, hauling her makeup bag, a suitcase, and the cat wrapped in a sweater.</ul>
+
+<ul class="sceneheader">INT. HOUSE - CONTINUOUS</ul>
+
+<ul class="action">Nell types on her laptop.</ul>
+
+<ul class="action">The doorbell rings. She jumps, startled, and picks up a baseball bat.</ul>
+
+<ul class="sceneext">EXT. PORCH - MOMENTS LATER</ul>
+
+<ul class="action">The chain still in place, Nell peaks out the door at Lily.</ul>
+
+<ul class="character">NELL</ul>
+<ul class="dialogue">Hell, no.</ul>
+
+<ul class="action">The door slams in Lily's face.</ul>
+
+<ul class="character">LILY</ul>
+<ul class="dialogue">Nell, please don’t turn me away. My car broke down. My phone needs rechargin'. The day’s been horrible.</ul>
+
+<ul class="character">NELL (O.S.)</ul> 
+<ul class="dialogue">Go away, Lily.</ul>
+
+<ul class="action">The cat meows.</ul>
+
+<ul class="action">The door opens.</ul>
+
+<ul class="action">Lily exposes the cat under the sweater.</ul>
+
+<ul class="character">LILY</ul>
+<ul class="dialogue">He's homeless like me.</ul>
+
+<ul class="action">The door widens. Using her baseball bat, Nell waves Lily and the cat into the house.</ul>
+
+<ul class="sceneheader">INT. KITCHEN - LATER</ul>
+
+<ul class="action">Nell sets down a bowl of food for the cat.</ul>
+
+<ul class="character">LILY</ul>
+<ul class="dialogue">That looks gross, Nell.</ul>
+
+<ul class="action">The cat jumps from Lily's arms onto the floor, and eats the cat food.</ul>
+
+<ul class="character">NELL</ul>
+<ul class="dialogue">Cats don’t care what food looks like. What are you doing with Frank, anyway?</ul>
+
+<ul class="character">LILY</ul>
+<ul class="dialogue">Frank?</ul>
+
+<ul class="character">NELL</ul>
+<ul class="dialogue">That's his name.</ul>
+
+<ul class="character">LILY</ul>
+<ul class="dialogue">That still creeps me out, Nell. That whole hearing what the animals are sayin’ thing you got goin’.</ul>
+
+<ul class="character">NELL</ul>
+<ul class="dialogue">I didn't invite you here.</ul>
+
+<ul class="character">LILY</ul>
+<ul class="dialogue">I've no place else to go.</ul>
+
+<ul class="character">NELL</ul>
+<ul class="dialogue">He can stay. You can't.</ul>
+
+<ul class="action">The cat rubs against Nell's leg.</ul>
+
+<ul class="character">NELL (CONT’D)</ul>
+<ul class="dialogue">Shit. No way. I don't care.</ul>
+
+<ul class="character">LILY</ul>
+<ul class="dialogue">Okay, creep me out, but what’s Frank the cat sayin’?</ul>
+
+<ul class="character">NELL</ul>
+<ul class="dialogue">Come on, I'll show you where you both can sleep tonight.</ul>
+
+<ul class="scenedia">INT. BEDROOM - LATER</ul>
+
+<ul class="action">Nell turns the light on. Lily dumps her bag on the bed, and Frank jumps up onto it.</ul>
+
+<ul class="character">NELL</ul>
+<ul class="dialogue">You don't need to unpack. You won't be staying more than the night.</ul>
+
+<ul class="sceneext">EXT. FOR ALWAYS FUNERAL HOME - DAY</ul>
+
+<ul class="action">Storm clouds gather over the For Always Funeral Home.</ul>
+
+<ul class="sceneheader">INT. FOR ALWAYS - MORTICIAN’S PREPARATORY ROOM - DAY</ul>
+
+<ul class="action">At a stainless steel sink, a latex-gloved MARY MARTIN, a handsome, serious woman in her forties, wears her mortician scrubs, and a heavy duty face mask over her mouth and nose.</ul>
+
+<ul class="action">She inserts a syringe through a rubber top of a medicine bottle. Mary withdraws some clear liquid.</ul>
+
+<ul class="action">She picks up another bottle. It’s an ink bottle labeled as “ink for fountain pens.” She squirts the liquid from the syringe into the ink bottle.</ul>
+
+<ul class="sceneheader">INT. HALLWAY OUTSIDE PREPATORY ROOM - CONTINUOUS</ul>
+
+<ul class="action">JANET GAYNOR, pretty woman in her thirties, tries to open the door to the prep room. It’s locked. She rattles the door knob.</ul>
+
+<ul class="sceneheader">INT. PREPARATORY ROOM - CONTINUOUS</ul>
+
+<ul class="action">Mary jumps slightly at the sound at the door. </ul>
+
+<ul class="character">JANET (O.S.)</ul>
+<ul class="dialogue">Mary? Why’s this door locked?</ul>
+
+<ul class="action">Mary pulls her face mask down so that she can answer.</ul>
+
+<ul class="character">MARY</ul>
+<ul class="dialogue">One minute, Janet!</ul>
+
+<ul class="action">Mary picks up both the ink bottle and the medicine bottle, and carries them as if they might explode in her hands.</ul>
+
+<ul class="action">A loud knock on the door, and—</ul>
+
+<ul class="character">JANET (O.S.)</ul>
+<ul class="dialogue">Why’s this door locked? </ul>
+
+<ul class="action">Mary jumps, and loses her grip on the medicine bottle. It shatters when it hits the hard floor.</ul>
+
+<ul class="action">Mary holds her breath and pulls her face mask back on. She slowly steps away from the broken bottle, and spilled liquid.</ul>
+
+<ul class="action">A louder pounding at the door. </ul>
+
+<ul class="character">JANET (O.S.) (CONT’D)</ul>
+<ul class="dialogue">What’s going on in there? Mary? Mary? Are you all right?</ul>
+
+<ul class="scenedia">INT. HALLWAY OUTSIDE PREPATORY ROOM - MOMENTS LATER</ul>
+
+<ul class="action">Janet steps back from the door, as it opens. Mary slips out, quickly closing the door behind her.</ul>
+
+<ul class="character">MARY</ul>
+<ul class="dialogue">Sorry, love. It’s gruesome work today.</ul>
+
+<ul class="action">Janet pulls Mary’s mask down from her face.</ul>
+
+<ul class="character">MARY (CONT’D)</ul>
+<ul class="dialogue">Right. Forgot.</ul>
+
+<ul class="action">Janet puts a finger to Mary’s lips.</ul>
+
+<ul class="character">JANET</ul>
+<ul class="dialogue">It’s hard not to worry about you. You’re so secretive sometimes. </ul>
+
+<ul class="character">MARY</ul>
+<ul class="dialogue">Nonsense.</ul>
+
+<ul class="character">JANET</ul>
+<ul class="dialogue">A new body today? Do you need me to—</ul>
+
+<ul class="action">Mary grabs Janet’s arm to prevent her from opening the door.</ul>
+
+<ul class="character">MARY</ul>
+<ul class="dialogue">No. Closed casket case. You don’t want to see this one.</ul>
+
+<ul class="character">JANET</ul>
+<ul class="dialogue">Oh. Okay.</ul>
+
+<ul class="character">MARY</ul>
+<ul class="dialogue">Did you want something, Janet?</ul>
+
+<ul class="character">JANET</ul>
+<ul class="dialogue">My father's in the hospital.</ul>
+
+<ul class="character">MARY</ul>
+<ul class="dialogue">Oh no. What’s happened?</ul>
+
+<ul class="character">JANET</ul>
+<ul class="dialogue">He fell. Broke his pelvis. I knew he would eventually. Fall, that is. I've got to go. Now. Immediately.</ul>
+
+<ul class="character">MARY</ul>
+<ul class="dialogue">That's awful. Of course, you must go.... What of Mrs. Swanson?</ul>
+
+<ul class="character">JANET</ul>
+<ul class="dialogue">She's set, ready for viewing.</ul>
+
+<ul class="character">MARY</ul>
+<ul class="dialogue">Good. When will you be back?</ul>
+
+<ul class="character">JANET</ul>
+<ul class="dialogue">That's the thing, I don't know. I'm leaving you a bit in the lurch.</ul>
+
+<ul class="character">MARY</ul>
+<ul class="dialogue">I’ll muddle through.</ul>
+
+<ul class="character">JANET</ul>
+<ul class="dialogue">I know you’re not comfortable with the aesthetic part of things.</ul>
+
+<ul class="character">MARY</ul>
+<ul class="dialogue">Don't worry about me for one more minute. It’ll work out.</ul>
+
+<ul class="character">JANET</ul>
+<ul class="dialogue">As soon as I've assessed his situation, I'll call.</ul>
+
+<ul class="character">MARY</ul>
+<ul class="dialogue">Right. If there's anything?</ul>
+
+<ul class="character">JANET</ul>
+<ul class="dialogue">I'll call.</ul>
+
+<ul class="action">Mary nods, smiles a sort of smile.</ul>
+
+<ul class="action">Janet gives her a kiss. It’s an intimate kiss.</ul>
+
+<ul class="action">When Janet disappears down the hallway, Mary puts her face mask back on.</ul>
+
+<ul class="sceneheader">INT. PREPARATORY ROOM - MOMENTS LATER</ul>
+
+<ul class="action">The only body in the room, living or dead, is Mary’s, and she’s cleaning up the liquid and the shattered bottle from the floor.</ul>
+
+<ul class="action">She disposes the mop head into a bucket marked as “hazardous waste.”</ul>
+
+<ul class="sceneext">EXT./INT.  LOUISVILLE - DAY</ul>
+
+<ul class="action">MONTAGE OF REJECTIONS</ul>
+
+<ul class="action">- A salon door slams in Lily's face.</ul>
+<ul class="action">- A residential door slams in Lily's face.</ul>
+
+<ul class="action">- An apartment door slams in Lily's face.</ul>
+
+<ul class="action">- A different salon door slams in Lily's face.</ul>
+
+<ul class="action">- Lily's pushed out the door of another salon.</ul>
+
+<ul class="action">- Lily shakes hands with MANAGER of car wash. </ul>
+
+<ul class="action">- Lily with rag, cleaning the outside of a car, alongside THREE CAR WASHING MEN.</ul>
+
+<ul class="action">- Lily's sprayed with a power hose by the three men, sending her out to the sidewalk.</ul>
+
+<ul class="action">END MONTAGE</ul>
+
+<ul class="sceneext">EXT. NELL'S FRONT PORCH - EVENING</ul>
+
+<ul class="action">Nell sits on a comfortable porch chair.</ul>
+
+<ul class="action">Frank jumps up to the porch railing.</ul>
+
+<ul class="action">Lily climbs the steps. </ul>
+
+<ul class="action">She picks up Frank, and plops down in a chair.</ul>
+
+<ul class="character">NELL</ul>
+<ul class="dialogue">Any luck?</ul>
+
+<ul class="character">LILY</ul>
+<ul class="dialogue">No one wants to rent to someone without a job, and no one wants to hire someone without an address.</ul>
+
+<ul class="character">NELL</ul>
+<ul class="dialogue">Why didn't you just use mine?</ul>
+
+<ul class="character">LILY</ul>
+<ul class="dialogue">Why would I? Ya clearly want no part of me, Nell.</ul>
+
+<ul class="action">Frank moves to a table between the two women.</ul>
+
+<ul class="action">Lily reaches out to pet Frank. He nips lightly but pointedly at Lily's hand.</ul>
+
+<ul class="character">LILY (CONT’D)</ul>
+<ul class="dialogue">Owww.</ul>
+
+<ul class="character">NELL</ul>
+<ul class="dialogue">You're not bleeding.</ul>
+
+<ul class="character">LILY</ul>
+<ul class="dialogue">Nell... When we last saw each other, you know before I left town... as usual, I said some things.</ul>
+
+<ul class="character">NELL</ul>
+<ul class="dialogue">Let’s not discuss it.</ul>
+
+<ul class="character">LILY</ul>
+<ul class="dialogue">You're my best friend in the world. More than my friend. But not in that sexual way ya'd like.</ul>
+
+<ul class="character">NELL</ul>
+<ul class="dialogue">Stop right now, Lily. Tread softly.</ul>
+
+<ul class="character">LILY</ul>
+<ul class="dialogue">I mean, like, we're sisters. Family. Like that. Since we were little, stuck in that foster home together. You used to think so, too, didn't ya?</ul>
+
+<ul class="character">NELL</ul>
+<ul class="dialogue">Stuck in juvenile hall, you mean.</ul>
+
+<ul class="character">LILY</ul>
+<ul class="dialogue">Not always. Okay, a lot. My fault. Usually.</ul>
+
+<ul class="action">Nell raises an eyebrow at her.</ul>
+
+<ul class="character">LILY (CONT’D)</ul>
+<ul class="dialogue">Ya egged me on a lot of times.</ul>
+
+<ul class="action">Frank rubs against Lily’s legs.</ul>
+
+<ul class="character">NELL</ul>
+<ul class="dialogue">Frank says I should lighten up. Give you a break.</ul>
+
+<ul class="character">LILY</ul>
+<ul class="dialogue">He said that? Thanks, cat. I mean, Frank.</ul>
+
+<ul class="action">The wind picks up. Leaves fly across the porch.</ul>
+
+<ul class="character">NELL</ul>
+<ul class="dialogue">Didn’t say I agreed with him. Storm's coming. I'm going in.</ul>
+
+<ul class="character">LILY</ul>
+<ul class="dialogue">Wait, Nell... please.</ul>
+
+<ul class="action">The wind flings a flyer across the porch. It lands smack on Lily's face.</ul>
+
+<ul class="action">Nell removes the flyer off Lily's face.</ul>
+
+<ul class="character">NELL</ul>
+<ul class="dialogue">I believe this flyer is for you.</ul>
+
+<ul class="action">She hands Lily the flyer. </ul>
+
+<ul class="action">INSERT FLYER IN LILY'S HAND</ul>
+<ul class="action">URGENT! EXPERIENCED COSMETOLOGIST NEEDED IMMEDIATELY. APPLY AT FOR ALWAYS, 3839 BARDSTOWN ROAD.</ul>
+
+<ul class="sceneheader">END ACT ONE</ul>
+
+</ul>

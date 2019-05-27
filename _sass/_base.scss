@@ -121,6 +121,7 @@ ul.desc-list {
 list-style-type: none;
 margin-left: 0;
 padding-left: 0;
+font-style: normal;
 }
 
 /**
@@ -130,7 +131,14 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 100;
 }
 
-
+li.standout {
+   font-weight: bold;
+   font-style: italic;
+ } 
+ li.accolades {
+   font-style: italic;
+    font-size: medium;
+    }
 /**
  * Links
  */
