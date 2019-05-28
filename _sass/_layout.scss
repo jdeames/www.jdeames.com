@@ -290,7 +290,10 @@ font-size: $caption_font_size;
 
 .screenbox {
     list-style: none;
-    width: 530px;
+ /**   width: 530px; */
+ 	display: flex ;
+ 	flex-direction: column ;
+ 	flex-wrap: wrap ;
     background: #eee;
     border: 1px solid #333;
     padding: 5px 14px;
