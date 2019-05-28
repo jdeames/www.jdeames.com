@@ -75,7 +75,7 @@ exclude: false
         <ul>
           <li><strong><em>Living in the Twilight with Our Three Selves</em></strong>
           <ul class="desc-list">
-             <li>A writer in the thick of civilization's collapse, struggles to find meaning in continuing his craft. He keeps himself and his wife afloat by teaching a writing workshop and scavenging supplies from where he can. His wife, a once celebrated ornithologist, remains steadfast, through a bourbon-soaked haze, in her quest to find the last remaining living bird.</li>
+             <li>A writer confronted with civilization's collapse, struggles to find meaning in continuing his craft. He keeps himself and his wife afloat by teaching a writing workshop and scavenging supplies from where he can. His wife, a once celebrated ornithologist, remains steadfast, through a bourbon-soaked haze, in her quest to find the last remaining living bird.</li>
 	     
 	       <li class="accolades">- Showcase Reading, Inkwell Theatre, Washington, DC, 2011</li>
 		    <li class="accolades">- Staged Reading, Women Playwrights’ Initiative, Orlando, 2010</li> 
