@@ -26,7 +26,7 @@ exclude: false
 				</li>
           <li><strong><em>For Always, 1/2-hour, dark comedy.</em></strong>
           <ul class="desc-list">
-          <li>A brutally honest make-up expert can’t keep a job, a fiancé, or even friends. She’s at the end of her rope until she meets a runaway cat, and then lands a job at a mortuary where the clients can’t talk back.</li>
+          <li>A brutally honest make-up expert can’t keep a job, a boyfriend, or any kind of friend. She’s at the end of her rope until she meets a runaway cat, and then lands a job at a mortuary where the clients can’t talk back.</li>
              <li class="accolades">- Finalist, Broad Humor Festival, 2010</li>
 			<li class="accolades">- Finalist, Moondance Film Festival, 2010</li>
           </ul>
@@ -123,7 +123,8 @@ exclude: false
              </ul>
  </li>
  <li><strong><em>Posers at the Gate</em></strong>
-  <ul class="desc-list">In charge of a US President’s entry into Heaven, two leaders face a difficult decision.</li>
+  <ul class="desc-list">
+  <li>In charge of a US President’s entry into Heaven, two leaders face a difficult decision.</li>
   </ul>
   </li>
  <li><strong><em>Intimate ASCII</em></strong>
@@ -164,8 +165,8 @@ exclude: false
         <div class="stories-list">  
      <ul class="film-list">
   <li><strong><em>Mollie Murphy, Petophile Vigilante,</em></strong> 10 minute mockumentary. Minuscule-budget film. Made in Louisville, Kentucky with local talent. Starring <a href="http://lizfentress.com">Liz Fentress.</a></li>
-  <li><iframe src="https://player.vimeo.com/video/20042430" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/20042430">Mollie Murphy, Petophile Vigilante</a> on <a href="https://vimeo.com/guerrilladaville">Vimeo</a>.</p></li>
-    <li><em>More goofiness found on <a href="https://vimeo.com/peaceablewriter" target="_blank"> Vimeo</a></em></li>
+  <li>{% include vimeoPlayer.html id=20042430 %}</li>
+     <li><em>More goofiness found on <a href="https://vimeo.com/peaceablewriter" target="_blank"> Vimeo</a></em></li>
 </ul>
   </div>
       </div>
