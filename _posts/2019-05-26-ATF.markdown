@@ -3,6 +3,7 @@ layout: post
 category: excerpts
 title:  After the War
 author:  By JD Eames
+lang: en
 description: trigger warning - violence/rape, one-hour, western/drama, original pilot script
 ---
 <p><strong>TRIGGER WARNING: VIOLENCE/RAPE.</strong></p>

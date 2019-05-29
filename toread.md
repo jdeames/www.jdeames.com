@@ -1,6 +1,7 @@
 ---
 layout: page
 category: excerpts
+lang: en
 title: excerpts
 exclude: false
 ---

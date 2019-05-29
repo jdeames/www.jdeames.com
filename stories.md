@@ -1,6 +1,7 @@
 ---
 layout: kidpages
 title: stories
+lang: en
 permalink: /stories/
 exclude: false
 ---

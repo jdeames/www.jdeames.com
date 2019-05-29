@@ -1,6 +1,7 @@
 ---
 layout: kidpages
 title: she/her
+lang: en
 permalink: /bio/
 exclude: false
 published: true

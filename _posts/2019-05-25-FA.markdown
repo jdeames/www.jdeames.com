@@ -3,6 +3,7 @@ layout: post
 category: excerpts
 title:  For Always
 author:  By JD Eames
+lang: en
 description: 1/2 hour, dark comedy, original pilot script
 ---
 <p>Act 1 of <strong><em>For Always,</em></strong> an original 1/2 hour pilot script</p>
