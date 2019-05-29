@@ -13,7 +13,7 @@ exclude: false
       <p>from current work that's in progress.</p>
       <p>For the truly curious, ay?</p>
       <p>Also: next to my handle "PeaceableWriter" there's supposed</p>
-      <p>to be social media icons. Soetimes they display, someties they
+      <p>to be social media icons. Sometimes they display, sometimes they</p>
       <p>don't! Working on that, too.</p>
       <p>Thank you for caring, dear friends.</p>
 
