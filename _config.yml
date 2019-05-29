@@ -1,6 +1,7 @@
 # Site settings
 title: JD Eames
 ititle: JD
+lang: en
 description: storyteller
 baseurl:   # #
 url:  https://www.jdeames.com # the base hostname & protocol for your site #

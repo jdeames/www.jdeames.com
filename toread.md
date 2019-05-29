@@ -1,9 +1,10 @@
 ---
-layout: page
-category: excerpts
+layout: kidpages
 lang: en
 title: excerpts
+permalink: /excerpts/
 exclude: false
+published: true
 ---
 
 <ul class="post-lineup">

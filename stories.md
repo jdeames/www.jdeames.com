@@ -4,6 +4,7 @@ title: stories
 lang: en
 permalink: /stories/
 exclude: false
+published: true
 ---
 <div class="container">
  <h3>
