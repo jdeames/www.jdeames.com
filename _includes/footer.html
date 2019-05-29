@@ -1,9 +1,30 @@
 
 <footer class="site-footer">
-
-  <div class="wrapper">
-                    <p>Modified <a href="http://jekyllthemes.org/themes/folio/" target="_blank">*folio theme.</a>  With appreciation.  All content & photos &copy; 2015 - {{ site.time | date: '%Y' }} by JD Eames.</p>
-                </div>
-
-
-    </footer>
+  
+   <div class="wrapper">
+  
+  	<p class="social-media-list"><a href="http://eepurl.com/cwQH-P" title="mailing list">Kindly SUBSCRIBE to my Mailing List</a>
+       <p>PeaceableWriter:  
+       {% if site.twitter_username %}
+      <a href="https://twitter.com/{{ site.twitter_username }}" target="blank">
+         <i class="fa fa-twitter"></i>  </a>
+      {% endif %}
+      {% if site.instagram_username %}
+       <a href="https://instagram.com/{{ site.instagram_username }}" target="blank">
+       <i class="fa fa-instagram"></i>  </a>
+       {% endif %}
+       {% if site.wordpress_username %}
+         <a href="https://peaceablewriter.wordpress.com" target="blank">
+          <i class="fa fa-wordpress"></i>  </a>
+       {% endif %}
+       {% if site.vimeo_username %}
+         <a href="https://vimeo.com/{{ site.vimeo_username }}" target="blank">
+            <i class="fa fa-vimeo-square"></i> </a>
+       {% endif %}
+     </p>
+     
+   </p>
+     <p>Site design with <a href="https://jekyllrb.com" target="blank">Jekyll,</a> with appreciation.  All content & photos &copy; 2015 - {{ site.time | date: '%Y' }} by JD Eames.</p>
+  </div>
+	{% include google_analytics.html %}
+ </footer>

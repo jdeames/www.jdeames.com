@@ -9,8 +9,7 @@ exclude: false
  	{% for post in site.posts %}
 
 	 <li>
-        <h4><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
-      
+        <h4><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>     
         <p>{{ post.description }}</p>
       </li>
 

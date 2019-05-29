@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: kidpages
 title: stories
 permalink: /stories/
 exclude: false
@@ -84,9 +84,9 @@ exclude: false
 	
   <li><strong><em>Do Geese See God</em></strong>
    <ul class="desc-list">
-             <li>A lexicographer’s life is all about the words, until she’s hit by lightning during a winter storm, and left with an aphasiac speech impairment. Her recovery forces her to find a new relationship with words, and with the people closest to her.</li>
+        <li>A lexicographer’s life is all about the words, until she’s hit by lightning during a winter storm, and left with an aphasiac speech impairment. Her recovery forces her to find a new relationship with words, and with the people closest to her.</li>
   	     <li class="accolades">- Reading, First Flight Series, Boomerang Theatre, San Diego, 2010</li>
-		 <li class="accolades">- Winner, Lambda Players Play Competition, Sacramento, 2008</li>
+		 <li class="accolades">- Staged Showcase, Diversionary Theatre, San Diego, 2007</li>
 
   </ul>
   </li>
