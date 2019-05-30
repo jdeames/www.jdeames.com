@@ -10,7 +10,7 @@
     position: relative;
 }
 
-.site-title {
+site-title {
     font-size: 26px;
     font-weight: 300;
     line-height: 56px;
@@ -42,6 +42,7 @@
     .menu-icon {
         display: none;
     }
+
 
     .page-link {
         color: $text-color;
@@ -106,17 +107,13 @@
 .header-bar{
     left: 0px;
     top: 0px;
-    position: relative;
     font-size: 20px;
-    display: block;
-  /*  opacity: 0.75; */
-    opacity: 0.95;
-    width: 100%;
     text-align: center;
-    padding-top: 20px;
+     padding-top: 20px;
     line-height: 3em;
-    z-index: 25;
-    h1{
+     z-index: 25;
+       
+      h1{
         color: $brand-color;
         font-size:80px;
     }
@@ -125,14 +122,13 @@
     }
 }
 
-
 /**
  * Site footer
  */
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
-     text-align: center;
+    text-align: center;
 }
 
 .footer-heading {
@@ -143,13 +139,13 @@
 .contact-list,
 .social-media-list {
     list-style: none;
-   //* margin-left: 0;  */
+    margin-left: 0;
 }
 
 .contact-list {
    font-size: larger ;
    }
-   
+
 .footer-col-wrapper {
     font-size: 15px;
     color: $grey-color;
@@ -158,8 +154,7 @@
 }
 
 .footer-col {
-  //*  float: left;  */
-    float: center;
+    float: left;
     margin-bottom: $spacing-unit / 2;
     padding-left: $spacing-unit / 2;
 }
@@ -206,10 +201,9 @@
  * Page content
  */
 .page-content {
-   /** padding: $spacing-unit 0; */
-   padding: 100px 0; /* VERTICAL PADDING FOR TITLE ON EVERY PAGE */
-   font-size: 20px ;
-} 
+    padding: $spacing-unit 0;
+    font-size: 20px ;
+}
 
 .page-heading {
     font-size: 20px;
@@ -234,53 +228,58 @@
     font-size: 24px;
 }
 
-// * Posts  ********************************************************** /
+
+
+/**
+ * Posts
+ */
 .post-header {
-margin-bottom: $vertical-spacing-unit;
+    margin-bottom: $spacing-unit;
 }
+
 .post-title {
-font-size: 22px;
-letter-spacing: -1px;
-line-height: 1;
-@include media-query($on-laptop) {
-font-size: 26px;
+    font-size: 22px;
+    letter-spacing: -1px;
+    line-height: 1;
+
+    @include media-query($on-laptop) {
+        font-size: 26px;
     }
 }
 
 .post-lineup { margin: 0px 0;
 list-style: none; }
     > li {margin-bottom: 0px; }
-
+    
 .post-content {
-h2 {
-font-size: 42px;
-@include media-query($on-laptop) {
-font-size: 28px;
+    margin-bottom: $spacing-unit;
+
+    h2 {
+        font-size: 32px;
+
+        @include media-query($on-laptop) {
+            font-size: 28px;
         }
     }
-h3 {
-font-size: 30px;
-@include media-query($on-laptop) {
-font-size: 22px;
+
+    h3 {
+        font-size: 26px;
+
+        @include media-query($on-laptop) {
+            font-size: 22px;
         }
     }
-h4 {
-font-size: 20px;
-@include media-query($on-laptop) {
-font-size: 18px;
+
+    h4 {
+        font-size: 20px;
+
+        @include media-query($on-laptop) {
+            font-size: 18px;
         }
     }
-}
-.post-meta {
-font-size: $small-font-size;
-color: $grey-color;
-margin-bottom: 0px; 
-}
-.post-link {
-display: block;
-font-size: 42px;
 }
 
+//* images */
 .img_row{
 height: $img_height;
 width: 100%;
@@ -315,6 +314,7 @@ text-align: center;
 vertical-align: middle;
 font-size: $caption_font_size;
 }
+
 /** 
  * John August Formatting CSS **********************************************************
 */

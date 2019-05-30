@@ -6,18 +6,10 @@ permalink: /notes/
 exclude: false
 published: true
 ---
-<div class="container">
+2019-5-29 Finally got around to getting some tweaks done on the website. 
+Soon, there will be a page about work in progress (aka the never-ending
+writing of my novel, Reckless Joy).
 
-      <p>5/28/2019: Apologies that the website has some quirks.</p>
-      <p>If you're on the front page & see the collapsible menu,</p>
-      <p>you won't be able to click on "notes" from the menu. Only on</p>
-      <p>the front page, though. Seems to work everywhere else.</p>
-      <p>We're workin' on that.</p>
-      <p></p>
-      <p>Soon, too, there will be notes, and perhaps excerpts,</p> 
-      <p>from current work that's in progress.</p>
-      <p>For the truly curious, ay?</p>
-      <p></p>
-      <p>Thank you for caring, dear friends.</p>    
-    
-</div>
+For the truly curious, ay?
+
+Thank you for caring, dear friends. See you anon.
