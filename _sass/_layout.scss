@@ -333,6 +333,11 @@ font-size: $caption_font_size;
 .screenbox ul { font: 12px/14px Courier, fixed; }
 
 .open {padding-top: 1.5ex; padding-bottom: 2.5ex; }
+.openp { padding-left: 15%;
+  padding-right: 15%; 
+  padding-top: 1.5ex;
+  padding-bottom: 1.5ex; }
+  
 .sceneheader, .action, .character { padding-top: 1.5ex; padding-bottom: 1.5ex; }
 
 .sceneext { padding-top: 2.5ex; padding-bottom: 1.5ex; }
@@ -340,6 +345,10 @@ font-size: $caption_font_size;
 .scenedia { padding-top: 2.5ex; padding-bottom: 1.5ex; }
 
 .action { padding-right: 5%; }
+.actionp { padding-left: 15%;
+  padding-right: 15%; 
+  padding-top: 3ex;
+  padding-bottom: 3ex; }
 
 .character { margin-left: 40%; padding-bottom: 0; }
 
