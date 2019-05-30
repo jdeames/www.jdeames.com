@@ -11,62 +11,24 @@ published: true
  <em>Highlights</em>
  </h3>
  <p></p>
-  <div class="panel-group" id="accordion">
-    <div class="panel" style="width=10cm">
+ <div class="panel">
      <div class="panel-heading">
         <h3>
-          <a data-toggle="collapse" data-parent="#accordion" href="#pilots">Teleplays</a>
+          <a data-toggle="collapse" data-parent="#accordion" href="#inprint">In Print</a>
         </h3>
       </div>
-      <div id="pilots" class="panel-collapse collapse">
-        <div class="stories-list">   
-        <ul>
-          <li><strong><em>After the War, 1-hour, western/drama.</em></strong>
-          <ul class="desc-list">
-          <li>At the end of the Civil War, a woman with unusual powers, an orphaned girl,  and a doctor unite to battle personal demons and societal injustice.</li>
-			</ul>
-				</li>
-          <li><strong><em>For Always, 1/2-hour, dark comedy.</em></strong>
-          <ul class="desc-list">
-          <li>A brutally honest make-up expert can’t keep a job, a boyfriend, or any kind of friend. She’s at the end of her rope until she meets a runaway cat, and then lands a job at a mortuary where the clients can’t talk back.</li>
-             <li class="accolades">- Finalist, Broad Humor Festival, 2010</li>
-			<li class="accolades">- Finalist, Moondance Film Festival, 2010</li>
-          </ul>
-          </li>
-          <li><strong><em>Reckless Joy, 1-hour, drama.</em></strong> (Also known as <em>Spectacular Grit</em>)
-          <ul class="desc-list">
-          <li>A district attorney's post-traumatic stress jeopardizes both her marriage and her re-election campaign. When a young thoroughbred is left in her care she begins to heal, and finds a new purpose for her life.</li>
-            <li class="accolades">- Cinequest - Top 20 Pilot Scripts, 2016 (as <em>Spectacular Grit</em>)</li>
-      
-          </ul>
-          </li>
-          </ul>
-	  </div>
-      </div>
-    </div>
-    
-
-    
-     <div class="panel">
-     <div class="panel-heading">
-        <h3>
-          <a data-toggle="collapse" data-parent="#accordion" href="#screenplays">Screenplays</a>
-        </h3>
-      </div>
-      <div id="screenplays" class="panel-collapse collapse">
+      <div id="inprint" class="panel-collapse collapse">
         <div class="stories-list"> 
         <ul>
- <li><strong><em>Expiration Date</em></strong> (Screenplay version of <em>For Always</em> teleplay)
- <ul class="desc-list">
-          <li>A make-up artist addiction to truth costs her everything, and she wonders if life is worth living. With no place to go, Lily and the cat she's accidentally stolen are taken in by a childhood friend who's dying. Lily lands a job at a mortuary, and wonders if she's found her true calling, working with dead people. The cat's owner turns up dead, however, and Lily's arrested for murder over a cat worth millions of dollars. Even though she's surrounded by death and misfortune, Lily soon discovers life has more options than she ever realized.</li>
-        </ul>
-       </li>
- </ul>
+         <li><strong><em>The Hollow & Other Plays,</em></strong> Collections from the New Play Development Workshop 2004-2007</li>
+  <li><strong><em>Estrogenius Book of Plays,</em></strong> 2002</li>
+  <li><strong><em>Healthy Primates & Other Plays,</em></strong> Collections from the New Play Development Workshop, 2000-2003</li>
+   </ul>
   </div>
       </div>
-    </div>
-    
-    <div class="panel">
+    </div>    
+ 
+  <div class="panel">
      <div class="panel-heading">
         <h3>
           <a data-toggle="collapse" data-parent="#accordion" href="#flplays">Plays</a>
@@ -92,9 +54,26 @@ published: true
 
   </ul>
   </li>
-
-
 </ul>
+  </div>
+      </div>
+    </div>
+    
+     <div class="panel">
+     <div class="panel-heading">
+        <h3>
+          <a data-toggle="collapse" data-parent="#accordion" href="#screenplays">Screenplays</a>
+        </h3>
+      </div>
+      <div id="screenplays" class="panel-collapse collapse">
+        <div class="stories-list"> 
+        <ul>
+ <li><strong><em>Expiration Date</em></strong> (Screenplay version of <em>For Always</em> teleplay)
+ <ul class="desc-list">
+          <li>A make-up artist addiction to truth costs her everything, and she wonders if life is worth living. With no place to go, Lily and the cat she's accidentally stolen are taken in by a childhood friend who's dying. Lily lands a job at a mortuary, and wonders if she's found her true calling, working with dead people. The cat's owner turns up dead, however, and Lily's arrested for murder over a cat worth millions of dollars. Even though she's surrounded by death and misfortune, Lily soon discovers life has more options than she ever realized.</li>
+        </ul>
+       </li>
+ </ul>
   </div>
       </div>
     </div>
@@ -139,23 +118,41 @@ published: true
       </div>
     </div>
     
-
-<div class="panel">
+    
+  <div class="panel-group" id="accordion">
+    <div class="panel" style="width=10cm">
      <div class="panel-heading">
         <h3>
-          <a data-toggle="collapse" data-parent="#accordion" href="#inprint">In Print</a>
+          <a data-toggle="collapse" data-parent="#accordion" href="#pilots">Teleplays</a>
         </h3>
       </div>
-      <div id="inprint" class="panel-collapse collapse">
-        <div class="stories-list"> 
+      <div id="pilots" class="panel-collapse collapse">
+        <div class="stories-list">   
         <ul>
-         <li><strong><em>The Hollow & Other Plays,</em></strong> Collections from the New Play Development Workshop 2004-2007</li>
-  <li><strong><em>Estrogenius Book of Plays,</em></strong> 2002</li>
-  <li><strong><em>Healthy Primates & Other Plays,</em></strong> Collections from the New Play Development Workshop, 2000-2003</li>
-   </ul>
-  </div>
+          <li><strong><em>After the War, 1-hour, western/drama.</em></strong>
+          <ul class="desc-list">
+          <li>At the end of the Civil War, a woman with unusual powers, an orphaned girl,  and a doctor unite to battle personal demons and societal injustice.</li>
+			</ul>
+				</li>
+          <li><strong><em>For Always, 1/2-hour, dark comedy.</em></strong>
+          <ul class="desc-list">
+          <li>A brutally honest make-up expert can’t keep a job, a boyfriend, or any kind of friend. She’s at the end of her rope until she meets a runaway cat, and then lands a job at a mortuary where the clients can’t talk back.</li>
+             <li class="accolades">- Finalist, Broad Humor Festival, 2010</li>
+			<li class="accolades">- Finalist, Moondance Film Festival, 2010</li>
+          </ul>
+          </li>
+          <li><strong><em>Reckless Joy, 1-hour, drama.</em></strong> (Also known as <em>Spectacular Grit</em>)
+          <ul class="desc-list">
+          <li>A district attorney's post-traumatic stress jeopardizes both her marriage and her re-election campaign. When a young thoroughbred is left in her care she begins to heal, and finds a new purpose for her life.</li>
+            <li class="accolades">- Cinequest - Top 20 Pilot Scripts, 2016 (as <em>Spectacular Grit</em>)</li>
+      
+          </ul>
+          </li>
+          </ul>
+	  </div>
       </div>
-    </div>    
+    </div>
+    
     
     <div class="panel">
      <div class="panel-heading">
