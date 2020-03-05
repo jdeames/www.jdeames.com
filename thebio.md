@@ -8,7 +8,7 @@ published: true
 ---
 
 <img class="col one right" alt="JD Eames" src="/img/jde.jpg">
-<p>My stories often explore loss, grief, interconnectedness, and how or if we come back together after we've been driven apart.</p>
+<p>My stories often explore loss, grief, interconnectedness, and how—or if—we come back together after we've been driven apart.</p>
 <p>My first <em>writing-world</em> has been the theatre, and my plays have been performed in San Francisco, San Diego, New York, Chicago, and Alaska.</p>
 
 <p>A founding member of West Coast Playwrights Alliance, a playwright-managed theatre company (1999-2001), the WCPA premiered my play <strong>Never Say Grace</strong> in November 2000. 
