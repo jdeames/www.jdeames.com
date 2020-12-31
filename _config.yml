@@ -2,7 +2,7 @@ title: JD Eames
 description: > # this means to ignore newlines until "baseurl:"
   website for all things JD Eames, Storyteller
 # permalink: ':title/' 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: https://www.jdeames.com # the base hostname & protocol for your site, e.g. http://example.com
 
 
