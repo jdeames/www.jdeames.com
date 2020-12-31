@@ -1,15 +1,14 @@
 ---
 layout: main
-title: Tags
+title: tag
 ---
   <section>  
   <H3>Article Tag: #{{page.tag}}</h3>
     <ul>
       {% for post in site.posts %}
       {% if post.tags contains page.tag %}
- /*     <li> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li> */
-       <li> <a href="https://jdeames.com/tag/" & {{ post.url }}" &"/" & "{{ post.title }}</a></li>
-      {% endif %}
+      <li> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+        {% endif %}
       {% endfor %}
     </ul>
     </section>
