@@ -3,8 +3,8 @@ description: > # this means to ignore newlines until "baseurl:"
   website for all things JD Eames, Storyteller
 # permalink: ':title/' 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-#site-twitter: peaceablewriter
+url: https://www.jdeames.com # the base hostname & protocol for your site, e.g. http://example.com
+
 
 # Author Settings
 author: JD Eames # add your name
@@ -18,8 +18,6 @@ social-instagram: peaceablewriter
 social-email: julie@jdeames.com
 social-vimeo: peaceablewriter
 
-# Disqus
-#discus-identifier: mr-brown # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
