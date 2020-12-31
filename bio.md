@@ -6,8 +6,6 @@ permalink: /bio/
 exclude: false
 published: true
 ---
-<br>
-<br>
 <div class="bio-page">
 <p>My stories often explore loss, grief, interconnectedness, and how—or if—we come back together after we've been driven apart. I'm deeply interested in life in all its forms (human, animal, feathered, not); concerned about our humanity and our survival both practically and spiritually.</p>
 <p>My first writing-world has been the theatre, and my plays have been performed in San Francisco, San Diego, New York, Chicago, Florida and Alaska.
