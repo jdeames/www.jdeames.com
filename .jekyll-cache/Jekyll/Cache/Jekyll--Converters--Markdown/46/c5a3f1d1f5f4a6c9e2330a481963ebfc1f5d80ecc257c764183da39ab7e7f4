@@ -1,12 +1,4 @@
----
-layout: kidpages
-title: stories
-lang: en
-permalink: /stories/
-exclude: false
-published: true
----
-<div class="container">
+I"ê<div class="container">
  <h3>
  <em>Highlights</em>
  </h3>
@@ -20,9 +12,9 @@ published: true
       <div id="inprint" class="panel-collapse collapse">
         <div class="stories-list"> 
         <ul>
-         <li><strong><em>The Hollow & Other Plays,</em></strong> Collections from the New Play Development Workshop 2004-2007</li>
+         <li><strong><em>The Hollow &amp; Other Plays,</em></strong> Collections from the New Play Development Workshop 2004-2007</li>
   <li><strong><em>Estrogenius Book of Plays,</em></strong> 2002</li>
-  <li><strong><em>Healthy Primates & Other Plays,</em></strong> Collections from the New Play Development Workshop, 2000-2003</li>
+  <li><strong><em>Healthy Primates &amp; Other Plays,</em></strong> Collections from the New Play Development Workshop, 2000-2003</li>
    </ul>
   </div>
       </div>
@@ -164,7 +156,14 @@ published: true
         <div class="stories-list">  
      <ul class="film-list">
   <li><strong><em>Mollie Murphy, Petophile Vigilante,</em></strong> 10 minute mockumentary. Minuscule-budget film. Made in Louisville, Kentucky with local talent. Starring <a href="http://lizfentress.com">Liz Fentress.</a></li>
-  <li>{% include vimeoPlayer.html id=20042430 %}</li>
+  <li><div class="embed-container">
+  <iframe src="https://player.vimeo.com/video/20042430" width="500" height="281" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="">
+  </iframe>
+</div>
+
+
+ 
+</li>
      <li><em>More goofiness found on <a href="https://vimeo.com/peaceablewriter" target="_blank"> Vimeo</a></em></li>
 </ul>
   </div>
@@ -174,3 +173,4 @@ published: true
   </div> 
 </div>
 
+:ET

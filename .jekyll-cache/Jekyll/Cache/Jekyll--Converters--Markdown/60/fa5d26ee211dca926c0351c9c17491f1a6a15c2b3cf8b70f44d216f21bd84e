@@ -1,14 +1,6 @@
----
-layout: post
-category: excerpts
-title:  For Always
-author:  By JD Eames
-lang: en
-description: original pilot script, 1/2 hour, dark comedy
----
-<p>Below is Act 1 of <strong><em>For Always,</em></strong> an original 1/2 hour pilot script.</p>
+I"ùO<p>Below is Act 1 of <strong><em>For Always,</em></strong> an original 1/2 hour pilot script.</p>
 <p>An exasperating, compulsively truthful cosmetician lands a job with a Kentucky mortuary unaware that more than just bodies get buried in the cemetery out back.</p>
-<ul CLASS="screenbox">
+<ul class="screenbox">
 <ul class="open">COLD OPEN</ul>
 
 <ul class="sceneheader">INT. BEDROOM - NIGHT</ul>
@@ -524,3 +516,4 @@ description: original pilot script, 1/2 hour, dark comedy
 <ul class="sceneheader">END ACT ONE</ul>
 
 </ul>
+:ET
