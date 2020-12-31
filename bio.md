@@ -1,7 +1,7 @@
 ---
 layout: main
 lang: en
-title: she/her
+title: bio
 permalink: /bio/
 exclude: false
 published: true
