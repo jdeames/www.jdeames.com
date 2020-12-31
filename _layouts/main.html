@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+<aside class="sidebar">
+  <header>
+    <div class="about">
+      <div class="cover-author-image">
+        <a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/assets/img/{% if site.author-img %}{{site.author-img}}{% endif %}" alt="{{site.author}}"></a>
+      </div>
+      <div class="author-name">{{site.author}}</div>
+      <p>{{site.about-author}}</p>
+      <p>{{site.author-pronouns}}</p>
+       <br>
+       <p>Novel</p>
+       <p><a href="/Scripts">Plays & Scripts</a></p>
+       <p>Short Fiction</p>
+      <p><a href="/Excerpts">Read an Excerpt</a></p>
+      <br>
+      <br>
+      <p><a href="/Bio">About Me</a></p>
+      <p><a href="https://www.subscribepage.com/u8o3v6" target="_blank">Signup for Newsletter!</a></p>
+    </div>
+  </header> <!-- End Header -->
+  <footer>
+    <section class="contact">
+      <h3 class="contact-title">Find me</h3>
+      <ul>
+          <li><a href="https://twitter.com/{{ site.social-twitter }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+          <li><a href="https://instagram.com/{{ site.social-instagram }}" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+          <li><a href="https://vimeo.com/{{ site.social-vimeo }}" target="_blank"><i class="fa fa-vimeo"></i></a></li>
+          <li><a href="mailto:{{site.social-email}}"><i class="fa fa-envelope-o"></i></a></li>
+          <li><a href="https://{{ site.social-vimeo }}.wordpress.com" target="_blank"><i class="fa fa-wordpress"></i></a></li>
+  
+      </ul>
+    </section> <!-- End Section Contact -->
+    <div class="copyright">
+      <p>{{site.time | date: '%Y'}} &copy; {{site.author}}</p>
+    </div>
+  </footer> <!-- End Footer -->
+</aside> <!-- End Sidebar -->
+<div class="content-box clearfix">
+  {{ content }}
+</div>

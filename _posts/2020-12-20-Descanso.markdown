@@ -1,0 +1,14 @@
+---
+layout: post
+title: Flash Fiction Story Published Online
+date: 2020-12-21 14:46 -0100
+description: Descanso at Welter Online # Add post description (optional)
+img: descanso.jpg # Add image post (optional)
+fig-caption: A Descanso is a Roadside Memorial # Add figcaption (optional)
+tags: [News, FlashFiction]
+---
+The Welter Journal published my story "Descanso" on Welter's new online site. You can read <a href="https://blogs.ubalt.edu/welter/fiction/descanso/" target="_blank">it here.</a>
+
+I'm quite honored to be included in Welter's first venture into online publishing. The 55-year old Journal's run by students at the University of Baltimore. I lived in Baltimore a gazillion years ago leading to a bit of symmetry for me personally.
+
+Hope you'll read and enjoy it.
