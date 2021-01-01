@@ -5,6 +5,8 @@ date: 2020-12-21 14:46 -0100
 description: Descanso at Welter Online # Add post description (optional)
 img: descanso.jpg # Add image post (optional)
 fig-caption: A Descanso is a Roadside Memorial # Add figcaption (optional)
+tags: news flashfiction
+published: true
 ---
 The Welter Journal published my story "Descanso" on Welter's new online site. You can read <a href="https://blogs.ubalt.edu/welter/fiction/descanso/" target="_blank">it here.</a>
 

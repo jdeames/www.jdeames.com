@@ -5,6 +5,7 @@ date: 2021-01-15 08:00 -0100
 description: Senryu postcard # Add post description (optional)
 img: grateful.jpg # Add image post (optional)
 fig-caption: Postcard # Add figcaption (optional)
+published: false
 ---
 <a href="https://poetryjumpsofftheshelf.com" target="_blank">Poetry Jumps off the Shelf!</a> selected one of  my senryu for their Contract Tracing Project. The project consists of haiku and <a href="https://www.masterclass.com/articles/how-to-write-senryu-poems" target="_blank">senryu</a> about <strong>life during the pandemic.</strong> The poems are printed on postcards.
 
