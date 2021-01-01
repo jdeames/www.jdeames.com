@@ -5,6 +5,7 @@ date: 2020-12-15 12:46 -0300
 description: Walker and her balls # Add post description (optional)
 img: wpuppy.jpg # Add image post (optional)
 fig-caption: Walker-girl 12 weeks old # Add figcaption (optional)
+published: true
 ---
 We call Walker the best dog in the world because she's kind, she shares her toys, and she loves everyone. It's her mission to let everyone pet and love on her. The social distancing during the pandemic has been challenging for Walker. 
 

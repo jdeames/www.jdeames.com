@@ -5,6 +5,7 @@ date: 2020-12-30 12:46 -0300
 description: free download of Walker's Way # Add post description (optional)
 img: wmorning.jpg # Add image post (optional)
 fig-caption: good morning # Add figcaption (optional)
+published: true
 ---
 
 Walker-girl once wrote a book called "Walker's Way: Some Thoughts on Dog."
