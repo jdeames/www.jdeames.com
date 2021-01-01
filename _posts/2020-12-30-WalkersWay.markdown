@@ -10,7 +10,7 @@ published: true
 
 Walker-girl once wrote a book called "Walker's Way: Some Thoughts on Dog."
 
-If you would like to read it, please <a href="/assets/img/walker/WalkersWay.pdf">download it from here.</a>
+If you would like to read it, please <a href="/assets/img/walker/WalkersWay.pdf" target="_blank">download it from here.</a>
 She asks for your forbearance if she made some typos. She's all paws.
 
  <img class="col one left" alt="Walker's Way" src="/assets/img/walker/wway.jpg">

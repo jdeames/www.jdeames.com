@@ -1,8 +1,7 @@
 title: JD Eames
-description: > # this means to ignore newlines until "baseurl:"
-  website for all things JD Eames, Storyteller
-# permalink: ':title/' 
-baseurl: " " # the subpath of your site, e.g. /blog
+description: Storyteller
+permalink: ':title/' 
+baseurl: ##
 url: https://www.jdeames.com # the base hostname & protocol for your site, e.g. http://example.com
 
 
@@ -27,13 +26,12 @@ markdown: kramdown
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
-  - jemoji
+# - jemoji
 
 paginate: 8
 paginate_path: "/page/:num"
 include: ['_excerpts']
-exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
-collections:
-  tags:
-    output: true
-    permalink: tags/:path/
+# collections:
+ # tags:
+  #  output: true
+#    permalink: tags/:path/ #
