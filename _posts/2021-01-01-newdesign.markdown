@@ -10,6 +10,6 @@ published: true
 We've implemented a new look for the site. Of course, now that the new design is live there are technical issues. 
 Thanks for your patience as we get the place cleaned up.
 
-In the meantime:  Wishing everyone a safe, healthy, and kinder 2021!
+In the meantime and more importantly:  Wishing everyone a safe, healthy, and kinder 2021!
 
  <div style="clear: both;"></div>

@@ -1,6 +1,6 @@
 title: JD Eames
 description: Storyteller
-permalink: ':title/' 
+# permalink: ':title/' 
 baseurl: ##
 url: https://www.jdeames.com # the base hostname & protocol for your site, e.g. http://example.com
 
