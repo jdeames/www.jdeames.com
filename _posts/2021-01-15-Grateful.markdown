@@ -12,3 +12,10 @@ published: false
 Shoshauna Shy launched Poetry Jumps Off the Shelf in 2004. The program has a history of creative methods for sending poetry out into the world. Poems have appeared on bookmarks, postcards palm-sized books, decals appearing on bicycles, notecards attached to maple syrup jugs, and in other unique formats and places.
 
 I love this program and it's an honor to be included!
+<div style color="darkblue" align="right">
+ <br>
+ <div>
+  <a href="/news/">#News  </a><a href="/poetry/"> #Poetry</a>
+ </div>
+</div>
+<div style="clear: both;">

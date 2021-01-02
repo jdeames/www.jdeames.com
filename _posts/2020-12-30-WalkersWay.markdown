@@ -7,11 +7,16 @@ img: wmorning.jpg # Add image post (optional)
 fig-caption: good morning # Add figcaption (optional)
 published: true
 ---
-
+<img class="col one center" alt="Walker's Way" src="/assets/img/walker/wway.jpg">
 Walker-girl once wrote a book called "Walker's Way: Some Thoughts on Dog."
 
 If you would like to read it, please <a href="/assets/img/walker/WalkersWay.pdf" target="_blank">download it from here.</a>
 She asks for your forbearance if she made some typos. She's all paws.
 
- <img class="col one left" alt="Walker's Way" src="/assets/img/walker/wway.jpg">
- <div style="clear: both;"></div>
+<div style color="darkblue" align="right">
+  <br>
+  <div>
+   <a href="/walker/">#Walker</a>
+  </div>
+</div>
+<div style="clear: both;"></div>

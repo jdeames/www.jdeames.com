@@ -324,6 +324,11 @@ legend {
   /* 1 */
 }
 
+div.thehash {
+  width: auto;
+  background-color: #f0f8ff;
+  }
+  
 /**
  * 1. Add the correct display in IE 9-.
  * 2. Add the correct vertical alignment in Chrome, Firefox, and Opera.
@@ -958,7 +963,7 @@ table tfoot td {
   -webkit-border-radius: 100%;
           border-radius: 100%;
   overflow: hidden;
-  background-color: #333030;
+/*  background-color: #333030; */
 }
 
 .about img {
@@ -1341,8 +1346,8 @@ li.standout {
 /* - - - - - - - - - - Tag Styles - - - - - - - - - - */
 .blog-tags {
   width: 100%;
-  background-color: #ffffff;
-  padding: 0 20px 20px;
+  background-color: #f0f8ff;
+  padding: 0 20px 20px; 
 }
 
 .blog-tags h1 {
@@ -1359,7 +1364,7 @@ li.standout {
 
 .tags {
   margin: 0;
-  padding: 10px;
+ padding: 10px;
 }
 
 .tags li {

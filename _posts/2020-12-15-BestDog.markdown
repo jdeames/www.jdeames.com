@@ -28,4 +28,10 @@ Every writer needs a dog
 or a cat
 
 or a betta fish. <em>Something</em> greater than the human self.
+<div style color="darkblue" align="right">
+  <br>
+  <div>
+  <a href="/walker/">#Walker</a>
+  </div>
+</div>
 <div style="clear: both;"></div>
