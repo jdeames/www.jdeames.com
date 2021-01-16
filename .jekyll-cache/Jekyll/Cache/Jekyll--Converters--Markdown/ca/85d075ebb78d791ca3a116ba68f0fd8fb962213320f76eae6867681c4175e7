@@ -1,21 +1,12 @@
----
-layout: main
-title: Scripts
-lang: en
-permalink: /scripts/
-exclude: false
-published: true
----
-
-<div>
+I"<div>
 
 <h3>Plays and Scripts</h3>
-<br>
+<br />
         <h4>In Print</h4>
         <ul>
-         <li><strong>The Hollow & Other Plays,</strong> Collections from the New Play Development Workshop 2004-2007</li>
+         <li><strong>The Hollow &amp; Other Plays,</strong> Collections from the New Play Development Workshop 2004-2007</li>
          <li><strong>Estrogenius Book of Plays,</strong> 2002</li>
-         <li><strong>Healthy Primates & Other Plays,</strong> Collections from the New Play Development Workshop 2000-2003</li>
+         <li><strong>Healthy Primates &amp; Other Plays,</strong> Collections from the New Play Development Workshop 2000-2003</li>
        </ul>
        
        <h4>Original Teleplays</h4>
@@ -111,12 +102,20 @@ published: true
       <div id="tinyfilms" class="panel-collapse collapse">
         <div class="stories-list">  
      <ul class="film-list">
-  <li><strong><em>Mollie Murphy, Petophile Vigilante,</em></strong> 10 minute mockumentary. Minuscule-budget film. Made in Louisville, Kentucky with local talent. <a href="https://www.google.com/search?client=safari&source=hp&ei=ZEwDYKKsDpiUtAbugKnQBQ&q=liz+fentress&oq=liz+fentress&gs_lcp=CgZwc3ktYWIQAzIFCAAQyQMyAggAMgYIABAWEB46CAgAEOoCEI8BOg4ILhCxAxDHARCjAhCTAjoICC4QsQMQgwE6BQgAELEDOgsILhCxAxDHARCjAjoICAAQsQMQgwE6CAguEMcBEKMCOgIILjoOCC4QsQMQgwEQyQMQkwI6BQguELEDOggILhDHARCvAToICAAQsQMQyQM6BAgAEAM6CwguELEDEMkDEJMCOgsIABCxAxCDARDJAzoICC4QyQMQkwJQjw9Y-SBg0CJoAXAAeACAAcIBiAHbC5IBBDAuMTKYAQCgAQGqAQdnd3Mtd2l6sAEK&sclient=psy-ab&ved=0ahUKEwii7pGjpaHuAhUYCs0KHW5ACloQ4dUDCAw&uact=5">Starring Liz Fentress.</a></li>
-  <li>{% include vimeoPlayer.html id=20042430 %}</li>
+  <li><strong><em>Mollie Murphy, Petophile Vigilante,</em></strong> 10 minute mockumentary. Minuscule-budget film. Made in Louisville, Kentucky with local talent. <a href="https://www.google.com/search?client=safari&amp;source=hp&amp;ei=ZEwDYKKsDpiUtAbugKnQBQ&amp;q=liz+fentress&amp;oq=liz+fentress&amp;gs_lcp=CgZwc3ktYWIQAzIFCAAQyQMyAggAMgYIABAWEB46CAgAEOoCEI8BOg4ILhCxAxDHARCjAhCTAjoICC4QsQMQgwE6BQgAELEDOgsILhCxAxDHARCjAjoICAAQsQMQgwE6CAguEMcBEKMCOgIILjoOCC4QsQMQgwEQyQMQkwI6BQguELEDOggILhDHARCvAToICAAQsQMQyQM6BAgAEAM6CwguELEDEMkDEJMCOgsIABCxAxCDARDJAzoICC4QyQMQkwJQjw9Y-SBg0CJoAXAAeACAAcIBiAHbC5IBBDAuMTKYAQCgAQGqAQdnd3Mtd2l6sAEK&amp;sclient=psy-ab&amp;ved=0ahUKEwii7pGjpaHuAhUYCs0KHW5ACloQ4dUDCAw&amp;uact=5">Starring Liz Fentress.</a></li>
+  <li><div class="embed-container">
+  <iframe src="https://player.vimeo.com/video/20042430" width="500" height="281" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="">
+  </iframe>
+</div>
+
+
+ 
+</li>
      <li><em>More goofiness found on <a href="https://vimeo.com/peaceablewriter" target="_blank"> Vimeo</a></em></li>
 </ul>
   </div>
       </div>
     </div>    
 
-  </div> 
+  </div>
+:ET
