@@ -111,7 +111,7 @@ published: true
       <div id="tinyfilms" class="panel-collapse collapse">
         <div class="stories-list">  
      <ul class="film-list">
-  <li><strong><em>Mollie Murphy, Petophile Vigilante,</em></strong> 10 minute mockumentary. Minuscule-budget film. Made in Louisville, Kentucky with local talent. Starring <a href="http://lizfentress.com">Liz Fentress.</a></li>
+  <li><strong><em>Mollie Murphy, Petophile Vigilante,</em></strong> 10 minute mockumentary. Minuscule-budget film. Made in Louisville, Kentucky with local talent. Starring <a href="https://lizfentress.com">Liz Fentress.</a></li>
   <li>{% include vimeoPlayer.html id=20042430 %}</li>
      <li><em>More goofiness found on <a href="https://vimeo.com/peaceablewriter" target="_blank"> Vimeo</a></em></li>
 </ul>
