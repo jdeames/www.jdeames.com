@@ -18,20 +18,14 @@ social-email: julie@jdeames.com
 social-vimeo: peaceablewriter
 
 
-# Tracker
-analytics: # Google Analytics
-
 # Build Settings
 markdown: kramdown
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
-# - jemoji
+
 
 paginate: 8
 paginate_path: "/page/:num"
 include: ['_excerpts']
-# collections:
- # tags:
-  #  output: true
-#    permalink: tags/:path/ #
+
