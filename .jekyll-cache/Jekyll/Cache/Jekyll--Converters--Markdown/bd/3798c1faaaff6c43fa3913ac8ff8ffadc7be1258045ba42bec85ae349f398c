@@ -1,17 +1,9 @@
----
-layout: main
-title: Archive
-lang: en
-permalink: /nlarchive/
-exclude: false
-published: true
----
- <div class="container">
-  <br>
-  <br>
+I"q<div class="container">
+  <br />
+  <br />
   <h3>Newsletter Archive</h3>
-  <br>
-  <br>
+  <br />
+  <br />
    <div>
    <h4>
    <ul>
@@ -22,3 +14,4 @@ published: true
    
    </div>
  </div>
+:ET
