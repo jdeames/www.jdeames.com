@@ -1,0 +1,19 @@
+---
+layout: post
+title: Q&A - Pages Penned in Pandemic with JD Eames
+date: 2021-04-14 12:05 -0100
+description: Q&A Pages Penned in Pandemic # Add post description (optional)
+img: mar2021jde.jpg # Add image post (optional)
+fig-caption: me in the pandemic # Add figcaption (optional)
+published: True
+---
+Over on writer Kayla King's website <a href="https://www.kaylakingbooks.com/blog/2021/3/27/pages-penned-in-pandemic-with-jd-eames" target="_blank">there's a Q&A with me.</a> It was done in the fall of 2020 when New Mexico was going through an awful surge of the coronavirus. Our state's doing pretty good at this writing. My household has even been vaccinated! 
+
+There are many wonderful insights from other writers in this web series, so check them out. I'm honored to be included.
+<div style color="darkblue" align="right">
+ <br>
+ <div>
+  <a href="/news/">#News  </a>
+ </div>
+</div>
+<div style="clear: both;">
