@@ -15,7 +15,7 @@ I love this program and it's an honor to be included!
 <div style color="darkblue" align="right">
  <br>
  <div>
-  <a href="/news/">#News  </a><a href="/poetry/"> #Poetry</a>
+  <a href="/news/">#News  </a><a href="/poetry/"> #Poetry</a><a href="/haiku/"> #Haiku</a>
  </div>
 </div>
 <div style="clear: both;">

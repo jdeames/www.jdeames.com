@@ -1,15 +1,15 @@
 ---
 layout: main
 lang: en
-title: poetry
-permalink: /poetry/
+title: haiku
+permalink: /haiku/
 exclude: false
 published: true
 ---
 <div class="container">
   <br>
   <br>
-  <h3>Links to all Poetry Posts</h3>
+  <h3>Links to all Haiku Posts</h3>
   <br>
   <br>
    <div>
